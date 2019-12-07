@@ -1,12 +1,12 @@
 [
   {
     "id" : "webhook_roundend",
-    "url" : "someurl",
+    "url" : "https://discordapp.com/api/webhooks/652463062766321674/O6SVizuIjRdaECq-cRqXAnps4vEpHZFApjSAEbvH9Cn5QTZL5elsl-YyYmWtitVItcmO",
     "mentions" : [\@SS13]
   }
   {
     "id" : "webhook_roundstart",
-    "url" : "someurl",
+    "url" : "https://discordapp.com/api/webhooks/652463062766321674/O6SVizuIjRdaECq-cRqXAnps4vEpHZFApjSAEbvH9Cn5QTZL5elsl-YyYmWtitVItcmO",
     "mentions" : [\@SS13]
   }
 ]
