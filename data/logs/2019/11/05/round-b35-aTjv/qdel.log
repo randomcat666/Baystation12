@@ -1,0 +1,2643 @@
+
+
+Starting up round ID b35-aTjv. 11:00:00
+---------------------
+[16:03:51]QDEL: Path: /mob/living/carbon/human
+	qdel() Count: 7
+	Destroy() Cost: 165ms
+	Total Hard Deletes 6
+	Time Spent Hard Deleting: 541ms
+Path: /obj/item/organ/external/head
+	Failures: 4
+	qdel() Count: 33
+	Destroy() Cost: 160ms
+	Total Hard Deletes 4
+	Time Spent Hard Deleting: 288ms
+Path: /mob/living/carbon/slime
+	qdel() Count: 1
+	Destroy() Cost: 16ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 205ms
+Path: /obj/item/organ/external/chest
+	Failures: 2
+	qdel() Count: 31
+	Destroy() Cost: 1315ms
+	Total Hard Deletes 2
+	Time Spent Hard Deleting: 184ms
+Path: /obj/item/device/assembly/igniter
+	Failures: 7
+	qdel() Count: 9
+	Destroy() Cost: 8ms
+	Total Hard Deletes 7
+	Time Spent Hard Deleting: 131ms
+Path: /mob/new_player
+	qdel() Count: 5
+	Destroy() Cost: 3.00002ms
+	Total Hard Deletes 5
+	Time Spent Hard Deleting: 117ms
+Path: /obj/effect/landmark/map_load_mark/ejected_datapod
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 112ms
+Path: /obj/item/organ/external/groin
+	Failures: 1
+	qdel() Count: 32
+	Destroy() Cost: 428ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 94ms
+Path: /obj/item/organ/external/arm
+	Failures: 1
+	qdel() Count: 34
+	Destroy() Cost: 119ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 93ms
+Path: /obj/item/organ/external/leg
+	Failures: 1
+	qdel() Count: 34
+	Destroy() Cost: 115ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 93ms
+Path: /obj/item/organ/external/foot
+	Failures: 1
+	qdel() Count: 34
+	Destroy() Cost: 59ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 93ms
+Path: /obj/item/organ/external/hand/right
+	Failures: 1
+	qdel() Count: 34
+	Destroy() Cost: 55ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 93ms
+Path: /obj/item/organ/external/arm/right
+	Failures: 1
+	qdel() Count: 34
+	Destroy() Cost: 115ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 92ms
+Path: /obj/item/organ/external/leg/right
+	Failures: 1
+	qdel() Count: 34
+	Destroy() Cost: 114ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 92ms
+Path: /obj/effect/gateway/active/cult
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 45ms
+Path: /obj/item/organ/internal/augment/active/simple/armblade
+	Failures: 1
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 34ms
+	No hint: 1 times
+Path: /datum/nanoui
+	Failures: 1
+	qdel() Count: 179
+	Destroy() Cost: 59ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 32ms
+Path: /mob/zshadow
+	qdel() Count: 212
+	Destroy() Cost: 689ms
+	Total Hard Deletes 207
+	Time Spent Hard Deleting: 6ms
+Path: /mob/observer/virtual/mob
+	qdel() Count: 225
+	Destroy() Cost: 361ms
+	Total Hard Deletes 225
+	Time Spent Hard Deleting: 4ms
+Path: /obj/item/device/assembly/timer
+	Failures: 7
+	qdel() Count: 8
+	Destroy() Cost: 7ms
+	Total Hard Deletes 7
+	Time Spent Hard Deleting: 2ms
+Path: /turf/space
+	qdel() Count: 80211
+	Destroy() Cost: 28445ms
+Path: /datum/timedevent
+	qdel() Count: 22595
+	Destroy() Cost: 8406ms
+Path: /obj/effect/sparks
+	qdel() Count: 3564
+	Destroy() Cost: 2581ms
+Path: /datum/reagents
+	qdel() Count: 3314
+	Destroy() Cost: 2286ms
+Path: /datum/radiation_source
+	qdel() Count: 5268
+	Destroy() Cost: 2038ms
+Path: /atom/movable/lighting_overlay
+	qdel() Count: 2214
+	Destroy() Cost: 1645ms
+Path: /obj/item/stack/cable_coil
+	qdel() Count: 2781
+	Destroy() Cost: 1037ms
+Path: /mob/living/silicon/ai
+	qdel() Count: 3
+	Destroy() Cost: 857ms
+	Total Hard Deletes 3
+	Time Spent Hard Deleting: 0ms
+Path: /datum/reagent/capsaicin/condensed
+	qdel() Count: 2423
+	Destroy() Cost: 850ms
+Path: /obj/effect/projectile/pointdefense/tracer
+	qdel() Count: 961
+	Destroy() Cost: 726ms
+Path: /turf/simulated/open
+	qdel() Count: 1543
+	Destroy() Cost: 676.001ms
+Path: /datum/wound/bruise
+	qdel() Count: 1483
+	Destroy() Cost: 575ms
+Path: /obj/effect/floor_decal/industrial/warning
+	qdel() Count: 1339
+	Destroy() Cost: 523ms
+Path: /obj/effect/temporary/item_pickup_ghost
+	qdel() Count: 511
+	Destroy() Cost: 480ms
+Path: /turf/simulated/floor/shuttle_ceiling
+	qdel() Count: 1314
+	Destroy() Cost: 426.001ms
+Path: /obj/item/organ/internal/posibrain
+	qdel() Count: 3
+	Destroy() Cost: 396ms
+Path: /mob/living/silicon/sil_brainmob
+	qdel() Count: 3
+	Destroy() Cost: 391ms
+	Total Hard Deletes 3
+	Time Spent Hard Deleting: 0ms
+Path: /obj/machinery/ai_powersupply
+	qdel() Count: 3
+	Destroy() Cost: 359ms
+Path: /turf/simulated/wall/titanium
+	qdel() Count: 860
+	Destroy() Cost: 339.003ms
+Path: /obj/effect/floor_decal/industrial/hatch/yellow
+	qdel() Count: 639
+	Destroy() Cost: 338ms
+Path: /obj/effect/floor_decal/solarpanel
+	qdel() Count: 980
+	Destroy() Cost: 333ms
+Path: /obj/effect/floor_decal/industrial/outline/grey
+	qdel() Count: 615
+	Destroy() Cost: 275ms
+Path: /obj/effect/engine_exhaust
+	qdel() Count: 360
+	Destroy() Cost: 270ms
+Path: /turf/simulated/floor/tiled/dark
+	qdel() Count: 726
+	Destroy() Cost: 258.001ms
+Path: /obj/effect/wingrille_spawn/reinforced/crescent
+	qdel() Count: 371
+	Destroy() Cost: 256ms
+Path: /obj/effect/floor_decal/industrial/outline/yellow
+	qdel() Count: 633
+	Destroy() Cost: 255ms
+Path: /obj/random/mre
+	qdel() Count: 210
+	Destroy() Cost: 221ms
+Path: /obj/effect/paint/black
+	qdel() Count: 342
+	Destroy() Cost: 220ms
+Path: /obj/effect/paint/hull
+	qdel() Count: 385
+	Destroy() Cost: 212ms
+Path: /obj/random/medical/lite
+	qdel() Count: 229
+	Destroy() Cost: 202ms
+Path: /obj/random/mre/drink
+	qdel() Count: 187
+	Destroy() Cost: 198ms
+Path: /obj/effect/floor_decal/corner/blue
+	qdel() Count: 324
+	Destroy() Cost: 188ms
+Path: /turf/simulated/wall/elevator
+	qdel() Count: 468
+	Destroy() Cost: 187ms
+Path: /obj/effect/floor_decal/corner/green
+	qdel() Count: 350
+	Destroy() Cost: 179ms
+Path: /obj/random/mre/sauce
+	qdel() Count: 168
+	Destroy() Cost: 176ms
+Path: /obj/random/mre/spread
+	qdel() Count: 168
+	Destroy() Cost: 175ms
+Path: /datum/reagent/nutriment/protein
+	qdel() Count: 573
+	Destroy() Cost: 173ms
+Path: /obj/random/mre/dessert
+	qdel() Count: 168
+	Destroy() Cost: 173ms
+Path: /obj/effect/catwalk_plated
+	qdel() Count: 476
+	Destroy() Cost: 167ms
+Path: /obj/effect/decal/cleanable/blood/drip
+	qdel() Count: 206
+	Destroy() Cost: 163ms
+Path: /obj/effect/floor_decal/carpet
+	qdel() Count: 215
+	Destroy() Cost: 154ms
+Path: /obj/effect/floor_decal/techfloor
+	qdel() Count: 389
+	Destroy() Cost: 146ms
+Path: /image
+	qdel() Count: 361
+	Destroy() Cost: 143ms
+	Total Hard Deletes 2
+	Time Spent Hard Deleting: 0ms
+Path: /turf/simulated/floor/reinforced/airless
+	qdel() Count: 407
+	Destroy() Cost: 141ms
+Path: /obj/item/ammo_casing/pistol
+	qdel() Count: 67
+	Destroy() Cost: 141ms
+Path: /obj/effect/floor_decal/corner/red
+	qdel() Count: 279
+	Destroy() Cost: 139ms
+Path: /datum/skillset
+	qdel() Count: 448
+	Destroy() Cost: 133ms
+Path: /obj/structure/lattice
+	qdel() Count: 195
+	Destroy() Cost: 123ms
+Path: /turf/simulated/floor/tiled/white
+	qdel() Count: 330
+	Destroy() Cost: 118.998ms
+Path: /obj/effect/floor_decal/industrial/warning/corner
+	qdel() Count: 337
+	Destroy() Cost: 117ms
+Path: /turf/simulated/floor/plating
+	qdel() Count: 306
+	Destroy() Cost: 115.999ms
+Path: /turf/space/transit/north
+	qdel() Count: 305
+	Destroy() Cost: 114ms
+Path: /turf/simulated/floor/exoplanet/desert
+	qdel() Count: 266
+	Destroy() Cost: 113ms
+Path: /turf/simulated/floor/shuttle_ceiling/torch
+	qdel() Count: 305
+	Destroy() Cost: 110ms
+Path: /turf/simulated/floor/tiled/white/monotile
+	qdel() Count: 312
+	Destroy() Cost: 104ms
+Path: /obj/effect/projectile/laser/emitter/tracer
+	qdel() Count: 147
+	Destroy() Cost: 101ms
+Path: /obj/effect/paint/silver
+	qdel() Count: 360
+	Destroy() Cost: 100ms
+Path: /datum/progressbar
+	qdel() Count: 130
+	Destroy() Cost: 99ms
+Path: /obj/effect/scorcher
+	qdel() Count: 134
+	Destroy() Cost: 94ms
+Path: /obj/effect/wallframe_spawn/reinforced
+	qdel() Count: 235
+	Destroy() Cost: 93ms
+Path: /obj/effect/paint/red
+	qdel() Count: 185
+	Destroy() Cost: 93ms
+Path: /stat_silicon_subsystem
+	qdel() Count: 89
+	Destroy() Cost: 93ms
+Path: /obj/random/junk
+	qdel() Count: 227
+	Destroy() Cost: 91ms
+Path: /obj/effect/floor_decal/corner/paleblue
+	qdel() Count: 168
+	Destroy() Cost: 86ms
+Path: /obj/effect/decal/cleanable/blood/tracks/footprints
+	qdel() Count: 108
+	Destroy() Cost: 86ms
+Path: /obj/effect/wallframe_spawn/reinforced/titanium
+	qdel() Count: 168
+	Destroy() Cost: 83ms
+Path: /obj/random/maintenance/solgov
+	qdel() Count: 244
+	Destroy() Cost: 80ms
+Path: /obj/effect/floor_decal/spline/fancy/wood
+	qdel() Count: 156
+	Destroy() Cost: 80ms
+Path: /obj/item/projectile/bullet/pistol
+	qdel() Count: 67
+	Destroy() Cost: 70ms
+Path: /obj/item/ammo_casing/pistol/small
+	qdel() Count: 34
+	Destroy() Cost: 70ms
+Path: /obj/item/organ/external/diona/chest
+	qdel() Count: 2
+	Destroy() Cost: 70ms
+Path: /obj/effect/fluid
+	qdel() Count: 72
+	Destroy() Cost: 69ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/sliceable/pizza/vegetablepizza
+	qdel() Count: 33
+	Destroy() Cost: 69ms
+Path: /obj/random/trash
+	qdel() Count: 249
+	Destroy() Cost: 66ms
+Path: /icon
+	qdel() Count: 372
+	Destroy() Cost: 66ms
+Path: /obj/random/tech_supply
+	qdel() Count: 171
+	Destroy() Cost: 59ms
+Path: /obj/random/maintenance/clean
+	qdel() Count: 166
+	Destroy() Cost: 59ms
+Path: /obj/effect/floor_decal/corner/blue/diagonal
+	qdel() Count: 126
+	Destroy() Cost: 58ms
+Path: /obj/item/organ/external/hand
+	qdel() Count: 34
+	Destroy() Cost: 58ms
+Path: /obj/item/organ/external/foot/right
+	qdel() Count: 34
+	Destroy() Cost: 57ms
+Path: /atom/movable/overlay
+	qdel() Count: 3
+	Destroy() Cost: 57ms
+Path: /turf/simulated/floor/tiled/dark/monotile
+	qdel() Count: 130
+	Destroy() Cost: 56.0005ms
+Path: /obj/random/maintenance/solgov/clean
+	qdel() Count: 142
+	Destroy() Cost: 55ms
+Path: /obj/effect/effect/steam
+	qdel() Count: 70
+	Destroy() Cost: 55ms
+Path: /obj/effect/landmark
+	qdel() Count: 92
+	Destroy() Cost: 53ms
+Path: /obj/item/ammo_casing/pistol/rubber
+	qdel() Count: 25
+	Destroy() Cost: 53ms
+Path: /obj/item/organ/internal/brain
+	qdel() Count: 26
+	Destroy() Cost: 52ms
+Path: /obj/random/medical
+	qdel() Count: 87
+	Destroy() Cost: 52ms
+Path: /obj/effect/paint/brown
+	qdel() Count: 81
+	Destroy() Cost: 50ms
+Path: /obj/item/weapon/grenade/chem_grenade/teargas
+	qdel() Count: 7
+	Destroy() Cost: 50ms
+Path: /obj/item/organ/internal/stomach
+	qdel() Count: 26
+	Destroy() Cost: 50ms
+Path: /datum/reagent/nutriment
+	qdel() Count: 114
+	Destroy() Cost: 48ms
+Path: /obj/effect/floor_decal/snow
+	qdel() Count: 64
+	Destroy() Cost: 48ms
+Path: /obj/structure/rubble/house
+	qdel() Count: 63
+	Destroy() Cost: 47ms
+Path: /obj/item/organ/internal/lungs
+	qdel() Count: 25
+	Destroy() Cost: 47ms
+Path: /obj/item/organ/internal/liver
+	qdel() Count: 26
+	Destroy() Cost: 47ms
+Path: /turf/simulated/floor/reinforced
+	qdel() Count: 130
+	Destroy() Cost: 46.0001ms
+Path: /obj/item/organ/internal/kidneys
+	qdel() Count: 26
+	Destroy() Cost: 45ms
+Path: /obj/effect/overlay
+	qdel() Count: 59
+	Destroy() Cost: 45ms
+Path: /obj/item/organ/internal/heart
+	qdel() Count: 26
+	Destroy() Cost: 44ms
+Path: /obj/effect/projectile/laser/emitter/muzzle
+	qdel() Count: 49
+	Destroy() Cost: 43ms
+Path: /obj/effect/wallframe_spawn/reinforced/polarized
+	qdel() Count: 82
+	Destroy() Cost: 42ms
+Path: /obj/effect/projectile/laser/emitter/impact
+	qdel() Count: 49
+	Destroy() Cost: 42ms
+Path: /obj/item/ammo_casing/pistol/small/rubber
+	qdel() Count: 20
+	Destroy() Cost: 42ms
+Path: /obj/item/ammo_magazine/smg_top/rubber
+	qdel() Count: 1
+	Destroy() Cost: 42ms
+Path: /obj/item/ammo_magazine/smg
+	qdel() Count: 1
+	Destroy() Cost: 42ms
+Path: /obj/item/ammo_magazine/smg_top
+	qdel() Count: 1
+	Destroy() Cost: 42ms
+Path: /obj/item/ammo_casing/rifle
+	qdel() Count: 20
+	Destroy() Cost: 41ms
+Path: /obj/item/ammo_magazine/rifle
+	qdel() Count: 1
+	Destroy() Cost: 41ms
+Path: /obj/effect/floor_decal/corner/research
+	qdel() Count: 82
+	Destroy() Cost: 40ms
+Path: /obj/item/organ/external/chest/insectoid/nabber
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 39ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/sliceable/meatbread
+	qdel() Count: 25
+	Destroy() Cost: 39ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/sliceable/pizza/meatpizza
+	qdel() Count: 23
+	Destroy() Cost: 39ms
+Path: /obj/effect/floor_decal/corner/yellow
+	qdel() Count: 95
+	Destroy() Cost: 38ms
+Path: /obj/item/organ/internal/eyes
+	qdel() Count: 24
+	Destroy() Cost: 37ms
+Path: /obj/item/projectile/beam/emitter
+	qdel() Count: 49
+	Destroy() Cost: 36ms
+Path: /obj/item/projectile/bullet/pistol/holdout
+	qdel() Count: 34
+	Destroy() Cost: 36ms
+Path: /obj/item/organ/external/stump
+	qdel() Count: 21
+	Destroy() Cost: 36ms
+Path: /obj/effect/wallframe_spawn/reinforced/no_grille
+	qdel() Count: 93
+	Destroy() Cost: 34ms
+Path: /obj/item/ammo_magazine/machine_pistol
+	qdel() Count: 1
+	Destroy() Cost: 34ms
+Path: /mob/living/silicon/robot/combat
+	qdel() Count: 1
+	Destroy() Cost: 34ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /obj/effect/floor_decal/corner/blue/mono
+	qdel() Count: 53
+	Destroy() Cost: 33ms
+Path: /obj/effect/floor_decal
+	qdel() Count: 41
+	Destroy() Cost: 33ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/sliceable/pizza/margherita
+	qdel() Count: 19
+	Destroy() Cost: 33ms
+Path: /obj/item/ammo_casing/rifle/military
+	qdel() Count: 15
+	Destroy() Cost: 32ms
+Path: /obj/item/ammo_magazine/pistol/double
+	qdel() Count: 1
+	Destroy() Cost: 32ms
+Path: /obj/item/ammo_magazine/pistol/double/rubber
+	qdel() Count: 1
+	Destroy() Cost: 32ms
+Path: /obj/item/ammo_magazine/mil_rifle
+	qdel() Count: 1
+	Destroy() Cost: 32ms
+Path: /datum/powernet
+	qdel() Count: 44
+	Destroy() Cost: 31.0002ms
+Path: /obj/item/organ/external/chest/crystal
+	qdel() Count: 1
+	Destroy() Cost: 31ms
+Path: /obj/effect/wallframe_spawn/no_grille
+	qdel() Count: 92
+	Destroy() Cost: 30ms
+Path: /obj/effect/wallframe_spawn/reinforced_phoron
+	qdel() Count: 63
+	Destroy() Cost: 30ms
+Path: /obj/random/firstaid
+	qdel() Count: 52
+	Destroy() Cost: 29ms
+Path: /obj/item/organ/external/diona/groin
+	qdel() Count: 3
+	Destroy() Cost: 29ms
+Path: /turf/simulated/floor/tiled/techfloor/grid
+	qdel() Count: 64
+	Destroy() Cost: 28ms
+Path: /obj/random/powercell
+	qdel() Count: 69
+	Destroy() Cost: 28ms
+Path: /obj/item/projectile/bullet/pistol/rubber
+	qdel() Count: 25
+	Destroy() Cost: 28ms
+Path: /obj/item/weapon/reagent_containers/pill
+	qdel() Count: 15
+	Destroy() Cost: 28ms
+Path: /turf/simulated/floor/airless
+	qdel() Count: 88
+	Destroy() Cost: 27.0001ms
+Path: /obj/effect/wallframe_spawn/reinforced/hull
+	qdel() Count: 75
+	Destroy() Cost: 27ms
+Path: /obj/effect/projectile/laser/muzzle
+	qdel() Count: 32
+	Destroy() Cost: 27ms
+Path: /obj/item/ammo_casing/pistol/magnum
+	qdel() Count: 13
+	Destroy() Cost: 27ms
+Path: /obj/machinery/light
+	qdel() Count: 10
+	Destroy() Cost: 27ms
+Path: /turf/simulated/floor/tiled/steel_grid
+	qdel() Count: 96
+	Destroy() Cost: 27ms
+Path: /obj/effect/floor_decal/spline/plain
+	qdel() Count: 36
+	Destroy() Cost: 26ms
+Path: /obj/effect/projectile/pointdefense/muzzle
+	qdel() Count: 28
+	Destroy() Cost: 26ms
+Path: /obj/effect/floor_decal/floordetail/edgedrain
+	qdel() Count: 42
+	Destroy() Cost: 25ms
+Path: /obj/effect/paint/sun
+	qdel() Count: 32
+	Destroy() Cost: 25ms
+Path: /turf/simulated/floor/tiled/techfloor
+	qdel() Count: 71
+	Destroy() Cost: 25ms
+Path: /obj/effect/floor_decal/industrial/warning/fulltile
+	qdel() Count: 42
+	Destroy() Cost: 24ms
+Path: /obj/random/mre/sauce/sugarfree
+	qdel() Count: 23
+	Destroy() Cost: 24ms
+Path: /obj/item/organ/external/groin/vox
+	qdel() Count: 2
+	Destroy() Cost: 24ms
+Path: /obj/item/device/assembly_holder/timer_igniter
+	Failures: 7
+	qdel() Count: 7
+	Destroy() Cost: 24ms
+Path: /datum/reagent/water
+	qdel() Count: 52
+	Destroy() Cost: 24ms
+Path: /obj/effect/floor_decal/techfloor/corner
+	qdel() Count: 55
+	Destroy() Cost: 23ms
+Path: /obj/item/ammo_magazine/pistol/rubber
+	qdel() Count: 1
+	Destroy() Cost: 23ms
+Path: /obj/item/projectile/beam/pointdefense
+	qdel() Count: 28
+	Destroy() Cost: 22ms
+Path: /obj/effect/floor_decal/corner/red/mono
+	qdel() Count: 57
+	Destroy() Cost: 22ms
+Path: /obj/effect/expl_particles
+	qdel() Count: 30
+	Destroy() Cost: 22ms
+Path: /obj/item/ammo_magazine/pistol
+	qdel() Count: 1
+	Destroy() Cost: 22ms
+Path: /datum/wound/cut/small
+	qdel() Count: 69
+	Destroy() Cost: 21ms
+Path: /obj/effect/floor_decal/corner/brown
+	qdel() Count: 88
+	Destroy() Cost: 21ms
+Path: /obj/item/projectile/bullet/pistol/rubber/holdout
+	qdel() Count: 20
+	Destroy() Cost: 21ms
+Path: /datum/reagents/metabolism
+	qdel() Count: 43
+	Destroy() Cost: 21ms
+Path: /turf/unsimulated/mask
+	qdel() Count: 682
+	Destroy() Cost: 20ms
+Path: /datum/reagent/drink/juice/tomato
+	qdel() Count: 75
+	Destroy() Cost: 20ms
+Path: /datum/reagent/acid
+	qdel() Count: 48
+	Destroy() Cost: 20ms
+Path: /obj/item/projectile/bullet/rifle
+	qdel() Count: 20
+	Destroy() Cost: 20ms
+Path: /obj/random/mre/spread/vegan
+	qdel() Count: 19
+	Destroy() Cost: 20ms
+Path: /obj/random/mre/sauce/vegan
+	qdel() Count: 19
+	Destroy() Cost: 20ms
+Path: /obj/item/weapon/reagent_containers/glass/beaker/large
+	qdel() Count: 15
+	Destroy() Cost: 20ms
+Path: /obj/item/weapon/storage/backpack/industrial
+	qdel() Count: 1
+	Destroy() Cost: 20ms
+Path: /obj/effect/projectile/bullet/muzzle
+	qdel() Count: 25
+	Destroy() Cost: 20ms
+Path: /obj/effect/floor_decal/corner/red/half
+	qdel() Count: 44
+	Destroy() Cost: 19ms
+Path: /obj/effect/projectile/laser/impact
+	qdel() Count: 32
+	Destroy() Cost: 19ms
+Path: /turf/simulated/floor/tiled
+	qdel() Count: 48
+	Destroy() Cost: 19ms
+Path: /obj/effect/floor_decal/industrial/outline/blue
+	qdel() Count: 45
+	Destroy() Cost: 18ms
+Path: /datum/reagent/sterilizine
+	qdel() Count: 48
+	Destroy() Cost: 17ms
+Path: /turf/simulated/floor
+	qdel() Count: 50
+	Destroy() Cost: 17ms
+Path: /obj/fire
+	qdel() Count: 42
+	Destroy() Cost: 17ms
+Path: /obj/random/soap
+	qdel() Count: 38
+	Destroy() Cost: 17ms
+Path: /datum/reagent/imidazoline
+	qdel() Count: 33
+	Destroy() Cost: 17ms
+Path: /obj/effect/floor_decal/corner/paleblue/diagonal
+	qdel() Count: 29
+	Destroy() Cost: 17ms
+Path: /obj/item/projectile/bullet/rock
+	qdel() Count: 25
+	Destroy() Cost: 17ms
+Path: /obj/item/ammo_magazine/pistol/small
+	qdel() Count: 1
+	Destroy() Cost: 17ms
+Path: /obj/item/projectile/beam/smalllaser
+	qdel() Count: 20
+	Destroy() Cost: 17ms
+Path: /obj/random_multi/single_item/poppy
+	qdel() Count: 21
+	Destroy() Cost: 16ms
+Path: /obj/item/weapon/storage/box/engineer
+	qdel() Count: 1
+	Destroy() Cost: 16ms
+Path: /obj/effect/floor_decal/corner/green/half
+	qdel() Count: 37
+	Destroy() Cost: 16ms
+Path: /turf/simulated/floor/exoplanet/concrete
+	qdel() Count: 32
+	Destroy() Cost: 16ms
+Path: /obj/effect/floor_decal/scglogo
+	qdel() Count: 29
+	Destroy() Cost: 16ms
+Path: /obj/effect/floor_decal/corner/green/three_quarters
+	qdel() Count: 27
+	Destroy() Cost: 16ms
+Path: /obj/effect/floor_decal/beach
+	qdel() Count: 24
+	Destroy() Cost: 16ms
+Path: /obj/item/organ/external/groin/insectoid/nabber
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 15ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /obj/effect/floor_decal/corner/grey/diagonal
+	qdel() Count: 45
+	Destroy() Cost: 15ms
+Path: /obj/random/obstruction
+	qdel() Count: 43
+	Destroy() Cost: 15ms
+Path: /obj/effect/floor_decal/corner/green/mono
+	qdel() Count: 34
+	Destroy() Cost: 15ms
+Path: /obj/effect/projectile/laser/tracer
+	qdel() Count: 23
+	Destroy() Cost: 15ms
+Path: /obj/item/projectile/bullet/rifle/military
+	qdel() Count: 15
+	Destroy() Cost: 15ms
+Path: /obj/item/ammo_magazine/magnum
+	qdel() Count: 1
+	Destroy() Cost: 15ms
+Path: /obj/item/organ/internal/appendix
+	Failures: 1
+	qdel() Count: 13
+	Destroy() Cost: 15ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /turf/simulated/floor/tiled/monotile
+	qdel() Count: 40
+	Destroy() Cost: 15ms
+Path: /turf/simulated/wall/ocp_wall
+	qdel() Count: 40
+	Destroy() Cost: 14.001ms
+Path: /turf/simulated/floor/lino
+	qdel() Count: 50
+	Destroy() Cost: 14.0001ms
+Path: /obj/item/weapon/stock_parts/power/apc
+	qdel() Count: 19
+	Destroy() Cost: 14ms
+Path: /obj/effect/projectile/pointdefense/impact
+	qdel() Count: 14
+	Destroy() Cost: 14ms
+Path: /obj/effect/floor_decal/corner/yellow/half
+	qdel() Count: 37
+	Destroy() Cost: 14ms
+Path: /obj/item/projectile/bullet/pistol/strong
+	qdel() Count: 13
+	Destroy() Cost: 14ms
+Path: /obj/effect/meteor/irradiated
+	qdel() Count: 17
+	Destroy() Cost: 14ms
+Path: /obj/item/weapon/card/id/synthetic
+	qdel() Count: 7
+	Destroy() Cost: 13ms
+Path: /obj/effect/floor_decal/corner/white
+	qdel() Count: 50
+	Destroy() Cost: 13ms
+Path: /obj/effect/catwalk_plated/dark
+	qdel() Count: 36
+	Destroy() Cost: 13ms
+Path: /obj/effect/wallframe_spawn/reinforced/polarized/no_grille
+	qdel() Count: 32
+	Destroy() Cost: 13ms
+Path: /obj/effect/effect/smoke
+	qdel() Count: 30
+	Destroy() Cost: 13ms
+Path: /obj/effect/floor_decal/corner/pink
+	qdel() Count: 27
+	Destroy() Cost: 13ms
+Path: /obj/effect/floor_decal/corner/blue/three_quarters
+	qdel() Count: 25
+	Destroy() Cost: 13ms
+Path: /obj/effect/floor_decal/asteroid
+	qdel() Count: 25
+	Destroy() Cost: 13ms
+Path: /obj/random/cash
+	qdel() Count: 18
+	Destroy() Cost: 13ms
+Path: /obj/item/ammo_magazine/speedloader
+	qdel() Count: 1
+	Destroy() Cost: 13ms
+Path: /obj/item/ammo_magazine/speedloader/small
+	qdel() Count: 1
+	Destroy() Cost: 13ms
+Path: /obj/item/ammo_magazine/speedloader/magnum
+	qdel() Count: 1
+	Destroy() Cost: 13ms
+Path: /obj/item/weapon/robot_module/security/combat
+	qdel() Count: 1
+	Destroy() Cost: 13ms
+Path: /obj/random_multi/single_item/runtime
+	qdel() Count: 17
+	Destroy() Cost: 12ms
+Path: /obj/random_multi/single_item/boombox
+	qdel() Count: 16
+	Destroy() Cost: 12ms
+Path: /obj/item/weapon/ore/iron
+	qdel() Count: 13
+	Destroy() Cost: 12ms
+Path: /obj/item/organ/external/head/diona
+	qdel() Count: 3
+	Destroy() Cost: 12ms
+Path: /obj/effect/floor_decal/corner/brown/half
+	qdel() Count: 51
+	Destroy() Cost: 12ms
+Path: /obj/random/bomb_supply
+	qdel() Count: 33
+	Destroy() Cost: 12ms
+Path: /obj/effect/floor_decal/corner_techfloor_grid
+	qdel() Count: 31
+	Destroy() Cost: 12ms
+Path: /obj/effect/floor_decal/carpet/blue
+	qdel() Count: 20
+	Destroy() Cost: 12ms
+Path: /obj/effect/floor_decal/corner/red/three_quarters
+	qdel() Count: 18
+	Destroy() Cost: 12ms
+Path: /obj/effect/meteor/medium
+	qdel() Count: 19
+	Destroy() Cost: 12ms
+Path: /turf/simulated/floor/tiled/freezer
+	qdel() Count: 36
+	Destroy() Cost: 12ms
+Path: /datum/skillset/silicon
+	qdel() Count: 6
+	Destroy() Cost: 11ms
+Path: /obj/effect/decal/cleanable/dirt
+	qdel() Count: 30
+	Destroy() Cost: 11ms
+Path: /obj/effect/floor_decal/industrial/outline/red
+	qdel() Count: 22
+	Destroy() Cost: 11ms
+Path: /obj/random/drinkbottle
+	qdel() Count: 20
+	Destroy() Cost: 11ms
+Path: /obj/effect/spider/spiderling
+	qdel() Count: 16
+	Destroy() Cost: 11ms
+Path: /datum/reagent/potassium
+	qdel() Count: 34
+	Destroy() Cost: 11ms
+Path: /obj/structure/disposalholder
+	qdel() Count: 7
+	Destroy() Cost: 11ms
+Path: /datum/wound/burn/moderate
+	qdel() Count: 39
+	Destroy() Cost: 10ms
+Path: /obj/effect/floor_decal/corner/lime
+	qdel() Count: 34
+	Destroy() Cost: 10ms
+Path: /obj/random/maintenance
+	qdel() Count: 25
+	Destroy() Cost: 10ms
+Path: /obj/effect/floor_decal/stoneborder
+	qdel() Count: 15
+	Destroy() Cost: 10ms
+Path: /obj/random/contraband
+	qdel() Count: 12
+	Destroy() Cost: 10ms
+Path: /datum/reagent/sugar
+	qdel() Count: 31
+	Destroy() Cost: 10ms
+Path: /obj/screen/movable/action_button
+	qdel() Count: 21
+	Destroy() Cost: 10ms
+Path: /datum/skill_verb/noirvision
+	qdel() Count: 14
+	Destroy() Cost: 9.99999ms
+Path: /obj/effect/decal/cleanable/blood/oil
+	qdel() Count: 14
+	Destroy() Cost: 9.99999ms
+Path: /obj/random_multi/single_item/punitelly
+	qdel() Count: 11
+	Destroy() Cost: 9.00002ms
+Path: /obj/random/technology_scanner
+	qdel() Count: 31
+	Destroy() Cost: 9ms
+Path: /obj/random/torchcloset
+	qdel() Count: 30
+	Destroy() Cost: 9ms
+Path: /obj/random/tank
+	qdel() Count: 22
+	Destroy() Cost: 9ms
+Path: /obj/random/loot
+	qdel() Count: 19
+	Destroy() Cost: 9ms
+Path: /obj/random/toolbox
+	qdel() Count: 18
+	Destroy() Cost: 9ms
+Path: /obj/effect/floor_decal/spline/fancy/wood/corner
+	qdel() Count: 15
+	Destroy() Cost: 9ms
+Path: /obj/effect/projectile/stun/tracer
+	qdel() Count: 15
+	Destroy() Cost: 9ms
+Path: /obj/effect/floor_decal/industrial/outline
+	qdel() Count: 14
+	Destroy() Cost: 9ms
+Path: /obj/effect/decal/cleanable/blood/splatter
+	qdel() Count: 9
+	Destroy() Cost: 9ms
+Path: /mob/observer/eye/aiEye
+	qdel() Count: 3
+	Destroy() Cost: 9ms
+	Total Hard Deletes 3
+	Time Spent Hard Deleting: 0ms
+Path: /obj/item/device/radio/headset/heads/ai_integrated
+	qdel() Count: 3
+	Destroy() Cost: 9ms
+Path: /datum/effect/effect/system/spark_spread
+	qdel() Count: 16
+	Destroy() Cost: 9ms
+Path: /datum/storage_ui/default
+	qdel() Count: 3
+	Destroy() Cost: 9ms
+Path: /obj/effect/meteor/dust
+	qdel() Count: 16
+	Destroy() Cost: 9ms
+Path: /obj/item/organ/external/diona/arm
+	qdel() Count: 3
+	Destroy() Cost: 9ms
+Path: /obj/item/organ/external/diona/arm/right
+	qdel() Count: 3
+	Destroy() Cost: 8ms
+Path: /obj/screen/fullscreen/brute
+	qdel() Count: 42
+	Destroy() Cost: 8ms
+Path: /obj/effect/floor_decal/corner/research/mono
+	qdel() Count: 21
+	Destroy() Cost: 8ms
+Path: /obj/effect/floor_decal/corner/research/half
+	qdel() Count: 17
+	Destroy() Cost: 8ms
+Path: /obj/random/clothing
+	qdel() Count: 14
+	Destroy() Cost: 8ms
+Path: /obj/effect/floor_decal/corner/blue/half
+	qdel() Count: 13
+	Destroy() Cost: 8ms
+Path: /obj/item/organ/external/diona/leg
+	qdel() Count: 3
+	Destroy() Cost: 8ms
+Path: /obj/item/organ/external/diona/leg/right
+	qdel() Count: 3
+	Destroy() Cost: 8ms
+Path: /turf/simulated/wall/r_wall/hull
+	qdel() Count: 20
+	Destroy() Cost: 8ms
+Path: /obj/effect/meteor/big
+	qdel() Count: 10
+	Destroy() Cost: 8ms
+Path: /mob/observer/ghost
+	qdel() Count: 1
+	Destroy() Cost: 8ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /obj/item/projectile/beam
+	qdel() Count: 12
+	Destroy() Cost: 8ms
+Path: /datum/nano_module/email_client
+	qdel() Count: 14
+	Destroy() Cost: 7.00001ms
+Path: /obj/item/device/multitool
+	qdel() Count: 5
+	Destroy() Cost: 7.00001ms
+Path: /obj/random/smokes
+	qdel() Count: 28
+	Destroy() Cost: 7ms
+Path: /obj/effect/floor_decal/industrial/outline/orange
+	qdel() Count: 25
+	Destroy() Cost: 7ms
+Path: /obj/effect/floor_decal/corner/red/diagonal
+	qdel() Count: 19
+	Destroy() Cost: 7ms
+Path: /obj/random/single/cola
+	qdel() Count: 16
+	Destroy() Cost: 7ms
+Path: /obj/random/clipboard
+	qdel() Count: 11
+	Destroy() Cost: 7ms
+Path: /obj/effect/landmark/costume/chameleon
+	qdel() Count: 10
+	Destroy() Cost: 7ms
+Path: /obj/random/toy
+	qdel() Count: 8
+	Destroy() Cost: 7ms
+Path: /obj/effect/floor_decal/spline/plain/grey
+	qdel() Count: 8
+	Destroy() Cost: 7ms
+Path: /obj/random/projectile
+	qdel() Count: 7
+	Destroy() Cost: 7ms
+Path: /obj/random/ammo_magazine_smug
+	qdel() Count: 5
+	Destroy() Cost: 7ms
+Path: /obj/effect/meteor/emp
+	qdel() Count: 7
+	Destroy() Cost: 7ms
+Path: /obj/item/organ/external/groin/crystal
+	qdel() Count: 2
+	Destroy() Cost: 6.99999ms
+Path: /datum/reagent/space_drugs
+	qdel() Count: 14
+	Destroy() Cost: 6ms
+Path: /obj/item/organ/external/head/crystal
+	qdel() Count: 1
+	Destroy() Cost: 6ms
+Path: /obj/random/tool
+	qdel() Count: 27
+	Destroy() Cost: 6ms
+Path: /obj/effect/floor_decal/corner/paleblue/half
+	qdel() Count: 14
+	Destroy() Cost: 6ms
+Path: /obj/machinery/computer/arcade
+	qdel() Count: 12
+	Destroy() Cost: 6ms
+Path: /obj/random/solgov
+	qdel() Count: 7
+	Destroy() Cost: 6ms
+Path: /obj/effect/floor_decal/spline/plain/beige
+	qdel() Count: 7
+	Destroy() Cost: 6ms
+Path: /obj/effect/projectile/stun/muzzle
+	qdel() Count: 6
+	Destroy() Cost: 6ms
+Path: /obj/machinery/power/solar
+	qdel() Count: 2
+	Destroy() Cost: 6ms
+	No hint: 2 times
+Path: /obj/item/underwear/bottom
+	qdel() Count: 5
+	Destroy() Cost: 6ms
+Path: /obj/item/organ/internal/cell
+	qdel() Count: 2
+	Destroy() Cost: 5.99999ms
+Path: /obj/effect/decal/cleanable/blood/tracks/snake
+	qdel() Count: 7
+	Destroy() Cost: 5ms
+Path: /obj/item/organ/external/leg/right/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 5ms
+Path: /obj/effect/meteor/golden
+	qdel() Count: 5
+	Destroy() Cost: 5ms
+Path: /obj/item/organ/external/head/no_eyes
+	qdel() Count: 1
+	Destroy() Cost: 5ms
+Path: /obj/effect/floor_decal/corner/mauve
+	qdel() Count: 23
+	Destroy() Cost: 5ms
+Path: /obj/random/action_figure
+	qdel() Count: 12
+	Destroy() Cost: 5ms
+Path: /obj/random/material
+	qdel() Count: 12
+	Destroy() Cost: 5ms
+Path: /obj/effect/floor_decal/spline/fancy/black
+	qdel() Count: 12
+	Destroy() Cost: 5ms
+Path: /obj/effect/floor_decal/chapel
+	qdel() Count: 12
+	Destroy() Cost: 5ms
+Path: /obj/effect/floor_decal/corner/lime/three_quarters
+	qdel() Count: 10
+	Destroy() Cost: 5ms
+Path: /obj/effect/wingrille_spawn/reinforced_phoron/full
+	qdel() Count: 9
+	Destroy() Cost: 5ms
+Path: /obj/effect/decal/cleanable/greenglow
+	qdel() Count: 7
+	Destroy() Cost: 5ms
+Path: /obj/random/handgun
+	qdel() Count: 6
+	Destroy() Cost: 5ms
+Path: /obj/effect/effect/water
+	qdel() Count: 6
+	Destroy() Cost: 5ms
+Path: /obj/item/projectile/beam/stun
+	qdel() Count: 6
+	Destroy() Cost: 5ms
+Path: /obj/effect/projectile/stun/impact
+	qdel() Count: 6
+	Destroy() Cost: 5ms
+Path: /datum/reagent/mindbreaker
+	qdel() Count: 12
+	Destroy() Cost: 5ms
+Path: /obj/item/organ/external/head/yeosa
+	qdel() Count: 2
+	Destroy() Cost: 5ms
+Path: /obj/item/organ/external/arm/right/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 5ms
+Path: /obj/item/weapon/light/tube
+	qdel() Count: 11
+	Destroy() Cost: 5ms
+Path: /obj/item/stack/material/steel/fifty
+	qdel() Count: 3
+	Destroy() Cost: 5ms
+Path: /datum/wound/lost_limb
+	qdel() Count: 11
+	Destroy() Cost: 4.00001ms
+Path: /obj/item/organ/internal/liver/vox
+	qdel() Count: 2
+	Destroy() Cost: 4.00001ms
+Path: /obj/item/projectile/test
+	qdel() Count: 4
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/head/insectoid/nabber
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 4ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /datum/reagent/phosphorus
+	qdel() Count: 14
+	Destroy() Cost: 4ms
+Path: /obj/lighting_general
+	qdel() Count: 12
+	Destroy() Cost: 4ms
+Path: /datum/gas_mixture
+	qdel() Count: 8
+	Destroy() Cost: 4ms
+Path: /datum/hud/human
+	qdel() Count: 7
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/diona/foot/right
+	qdel() Count: 3
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/diona/hand/right
+	qdel() Count: 3
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/stomach/vox
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/diona/node
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/arm/right/crystal
+	qdel() Count: 1
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/arm/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 4ms
+Path: /obj/lighting_plane
+	qdel() Count: 12
+	Destroy() Cost: 4ms
+Path: /datum/reagent/silicon
+	qdel() Count: 10
+	Destroy() Cost: 4ms
+Path: /obj/random/snack
+	qdel() Count: 32
+	Destroy() Cost: 4ms
+Path: /obj/random/closet
+	qdel() Count: 13
+	Destroy() Cost: 4ms
+Path: /obj/effect/floor_decal/industrial/shutoff
+	qdel() Count: 10
+	Destroy() Cost: 4ms
+Path: /obj/random/accessory
+	qdel() Count: 9
+	Destroy() Cost: 4ms
+Path: /obj/effect/floor_decal/corner/paleblue/three_quarters
+	qdel() Count: 9
+	Destroy() Cost: 4ms
+Path: /obj/random/voidhelmet
+	qdel() Count: 8
+	Destroy() Cost: 4ms
+Path: /datum/overmap_event/dust
+	qdel() Count: 6
+	Destroy() Cost: 4ms
+Path: /obj/effect/floor_decal/corner/orange
+	qdel() Count: 4
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/diona/foot
+	qdel() Count: 3
+	Destroy() Cost: 4ms
+Path: /obj/item/weapon/weldingtool
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/projectile/energy/electrode/stunshot
+	qdel() Count: 4
+	Destroy() Cost: 4ms
+Path: /datum/reagent/drink/juice/berry
+	qdel() Count: 15
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/diona/hand
+	qdel() Count: 3
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/diona/strata
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/eyes/unathi
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/lungs/vox
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/diona/ligament
+	qdel() Count: 2
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/external/leg/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 4ms
+Path: /obj/item/organ/internal/powered/jets
+	Failures: 1
+	qdel() Count: 2
+	Destroy() Cost: 3.00002ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /obj/item/organ/internal/brain/unathi
+	qdel() Count: 2
+	Destroy() Cost: 3.00001ms
+Path: /datum/movement_handler/mob/conscious
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/cell/device/variable
+	qdel() Count: 3
+	Destroy() Cost: 3ms
+Path: /datum/reagent/adrenaline
+	qdel() Count: 3
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/internal/diona/nutrients
+	qdel() Count: 2
+	Destroy() Cost: 3ms
+Path: /obj/item/clothing/shoes/white
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/external/foot/right/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/internal/controller
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /datum/reagent/space_cleaner
+	qdel() Count: 7
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/ore/osmium
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /datum/click_handler/default
+	qdel() Count: 3
+	Destroy() Cost: 3ms
+Path: /obj/item/grab/normal
+	qdel() Count: 2
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/internal/diona/polyp
+	qdel() Count: 2
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/tank/emergency/oxygen/engi
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/screen/storage
+	qdel() Count: 12
+	Destroy() Cost: 3ms
+Path: /obj
+	qdel() Count: 9
+	Destroy() Cost: 3ms
+Path: /datum/wound/burn/large
+	qdel() Count: 6
+	Destroy() Cost: 3ms
+Path: /obj/structure/c_tray
+	qdel() Count: 3
+	Destroy() Cost: 3ms
+Path: /obj/effect/effect/water/chempuff
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /obj/structure/girder
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /obj/effect/landmark/corpse/lar_maria/test_subject
+	qdel() Count: 32
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/industrial/warning/full
+	qdel() Count: 16
+	Destroy() Cost: 3ms
+Path: /datum/follow_holder/spiderling
+	qdel() Count: 16
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/corner/mauve/mono
+	qdel() Count: 13
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/corner/mauve/half
+	qdel() Count: 12
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/corner/beige
+	qdel() Count: 12
+	Destroy() Cost: 3ms
+Path: /obj/effect/wallframe_spawn/reinforced/polarized/no_grille/regular
+	qdel() Count: 10
+	Destroy() Cost: 3ms
+Path: /datum/overmap_event/meteor
+	qdel() Count: 10
+	Destroy() Cost: 3ms
+Path: /obj/random/coin
+	qdel() Count: 9
+	Destroy() Cost: 3ms
+Path: /obj/random/plushie
+	qdel() Count: 9
+	Destroy() Cost: 3ms
+Path: /obj/effect/fluid_mapped
+	qdel() Count: 8
+	Destroy() Cost: 3ms
+Path: /obj/random/voidsuit
+	qdel() Count: 7
+	Destroy() Cost: 3ms
+Path: /obj/random/glasses
+	qdel() Count: 6
+	Destroy() Cost: 3ms
+Path: /obj/random/storage
+	qdel() Count: 6
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/industrial/hatch/blue
+	qdel() Count: 6
+	Destroy() Cost: 3ms
+Path: /obj/random/shoes
+	qdel() Count: 5
+	Destroy() Cost: 3ms
+Path: /obj/random/ammo
+	qdel() Count: 5
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/corner/black
+	qdel() Count: 5
+	Destroy() Cost: 3ms
+Path: /obj/effect/spider/eggcluster
+	qdel() Count: 5
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/industrial/warning/cee
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /obj/effect/floor_decal/stoneborder/corner
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/ore/uranium
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /obj/machinery/door/firedoor
+	qdel() Count: 3
+	Destroy() Cost: 3ms
+Path: /obj/random/energy
+	qdel() Count: 3
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/flamethrower/full
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/storage/pill_bottle
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /datum/reagent/lactate
+	qdel() Count: 5
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/internal/voxstack
+	qdel() Count: 2
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/external/tendril
+	qdel() Count: 2
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/internal/diona/bladder
+	qdel() Count: 2
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/candy/proteinbar
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/item/organ/external/arm/crystal
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/item/weapon/gun/energy/plasmacutter
+	qdel() Count: 1
+	Destroy() Cost: 3ms
+Path: /obj/item/projectile/ion
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /datum/movement_handler/mob/transformation
+	qdel() Count: 6
+	Destroy() Cost: 3ms
+Path: /datum/movement_handler/mob/buckle_relay
+	qdel() Count: 4
+	Destroy() Cost: 3ms
+Path: /datum/skill_verb/instruct
+	qdel() Count: 14
+	Destroy() Cost: 2.99999ms
+Path: /datum/skill_verb/appraise
+	qdel() Count: 14
+	Destroy() Cost: 2.99999ms
+Path: /obj/item/device/encryptionkey/heads/ai_integrated
+	qdel() Count: 3
+	Destroy() Cost: 2.99999ms
+Path: /obj/item/weapon/cell/hyper
+	qdel() Count: 3
+	Destroy() Cost: 2.99999ms
+Path: /obj/item/organ/internal/heart/vox
+	qdel() Count: 2
+	Destroy() Cost: 2.99999ms
+Path: /datum/nano_module/power_monitor
+	qdel() Count: 3
+	Destroy() Cost: 2.00002ms
+Path: /datum/wires/radio
+	qdel() Count: 8
+	Destroy() Cost: 2.00001ms
+Path: /datum/nano_module/crew_manifest
+	qdel() Count: 3
+	Destroy() Cost: 2.00001ms
+Path: /obj/item/device/camera/siliconcam/ai_camera
+	qdel() Count: 3
+	Destroy() Cost: 2.00001ms
+Path: /obj/item/organ/internal/hindtongue
+	qdel() Count: 2
+	Destroy() Cost: 2.00001ms
+Path: /datum/movement_handler/mob/multiz
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /datum/extension/base_icon_state
+	qdel() Count: 5
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/stomach/insectoid
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /obj/item/organ/internal/eyes/insectoid/nabber
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /datum/topic_manager/program
+	qdel() Count: 10
+	Destroy() Cost: 2ms
+Path: /datum/nano_module/law_manager
+	qdel() Count: 7
+	Destroy() Cost: 2ms
+Path: /datum/wound/burn/deep
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /datum/movement_handler/mob/movement
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /datum/follow_holder/mob
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/hallucination/sound/danger
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/effect/decal/cleanable/blood/tracks/body
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/clothingbag
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/device/tankassemblyproxy
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/device/radio/headset/headset_eng
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/eyes/vox/armalis
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/powered/float
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/powered/cooling_fins
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/brain/adherent
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/eyes/adherent
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/hand/right/crystal
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/tendril/two
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/tendril/three
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/cell/adherent
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/clothing/head/solgov/service/expedition/captain
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/gun/energy/laser/mounted
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/gun/energy/lasercannon/mounted
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/device/radio/borg
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /datum/skillset/silicon/robot
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/robot_parts/r_arm
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/lungs/insectoid/nabber
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/hand/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/hand/right/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/brain/insectoid/nabber
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/heart/open
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/liver/insectoid/nabber
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /datum/trader/ship/electronics
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/screen/fullscreen/blurry
+	qdel() Count: 26
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/corner/brown/mono
+	qdel() Count: 17
+	Destroy() Cost: 2ms
+Path: /obj/effect/wallframe_spawn/reinforced_phoron/titanium
+	qdel() Count: 11
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/industrial/loading
+	qdel() Count: 10
+	Destroy() Cost: 2ms
+Path: /obj/screen/fullscreen/flash
+	qdel() Count: 10
+	Destroy() Cost: 2ms
+Path: /obj/random/suit
+	qdel() Count: 8
+	Destroy() Cost: 2ms
+Path: /obj/random/single/lighter
+	qdel() Count: 6
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/industrial/hatch/orange
+	qdel() Count: 6
+	Destroy() Cost: 2ms
+Path: /obj/machinery/atmospherics/pipe/simple/hidden/supply
+	qdel() Count: 6
+	Destroy() Cost: 2ms
+Path: /datum/overmap_event/electric
+	qdel() Count: 6
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/spline/plain/red
+	qdel() Count: 5
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/corner/lime/mono
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/spline/plain/brown
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/corner/red/full
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /datum/artifact_find
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /obj/screen/fullscreen/oxy
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/cell
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/corner/beige/three_quarters
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/prefab/hand_teleporter
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/techfloor/orange
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/effect/spawner/newbomb/timer/syndicate
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/reagent/fuel
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/trader/ship/prank_shop
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/trader/ship/chinese
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/effect/explosion
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/effect/floor_decal/beach/corner
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/structure/rubble/war
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/welder_tank
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/ammo_casing/shotgun/blank
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/projectile/bullet/blank
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/device/radio/electropack
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/device/radio/headset
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/device/radio/off
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/clothing/mask/chewable/candy/lolli
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /datum/trader/ship/pet_shop
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /obj/item/solar_assembly
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /datum/announcement/priority
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/reagent/ethanol/gin
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/clothing/glasses/meson
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0ms
+Path: /datum/movement_handler/mob/physically_capable
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /datum/reagent/nutriment/sprinkles
+	qdel() Count: 4
+	Destroy() Cost: 2ms
+Path: /datum/hallucination/sound
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/item/remains/mouse
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/reagent_containers/hypospray/autoinjector/antirad
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/crowbar
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /datum/nano_module/skill_ui/admin
+	qdel() Count: 7
+	Destroy() Cost: 2ms
+Path: /datum/nano_module/rcon
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/nano_module/shields_monitor
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /datum/nano_module/supermatter_monitor
+	qdel() Count: 3
+	Destroy() Cost: 2ms
+Path: /obj/item/clothing/shoes/dutyboots
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/eyes/robot
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/kidneys/vox
+	qdel() Count: 2
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/tendril/four
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/aura/regenerating/human/unathi/yeosa
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/borer
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/weapon/material/armblade
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/internal/augment/armor
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /obj/item/organ/external/foot/insectoid
+	qdel() Count: 1
+	Destroy() Cost: 2ms
+Path: /datum/nano_module/skill_ui/antag
+	qdel() Count: 3
+	Destroy() Cost: 1.00001ms
+Path: /datum/extension/armor
+	qdel() Count: 1
+	Destroy() Cost: 1.00001ms
+Path: /datum/movement_handler/mob/death
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /datum/movement_handler/mob/delay
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /obj/effect/gibspawner/generic
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /datum/trader/ship/clothingshop/hatglovesaccessories
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/ore/glass
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/cookie
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/stack/medical/bruise_pack
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/oxycandle
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/encryptionkey/headset_eng
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/organ/external/hand/crystal
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/borg/sight/thermal
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/borg/combat/mobility
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/camera/siliconcam/robot_camera
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/card/id/ascent
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/aura/regenerating/human/diona
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/screen/click_catcher
+	qdel() Count: 450
+	Destroy() Cost: 1ms
+Path: /datum/reagent/dylovene
+	qdel() Count: 5
+	Destroy() Cost: 1ms
+Path: /datum/hallucination/skitter
+	qdel() Count: 5
+	Destroy() Cost: 1ms
+Path: /datum/trader/ship/robots
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /datum/reagent/hydrazine
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /obj/aiming_overlay
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /datum/reagent/drink/ice
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /datum/hallucination/talking
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/effect/decal/cleanable/generic
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/effect/meteor/flaming
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/item/clothing/mask/breath
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/hypospray/autoinjector
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/structure/grille/broken
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/decal/cleanable/liquid_fuel
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/decal/cleanable/blood/oil/streak
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/step_trigger/thrower
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/donut/cherryjelly
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/psi_complexus
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/screen/psi/hub
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/screen/psi/toggle_psi_menu
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/structure/window/reinforced/full
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/structure/table/glass
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/skill_buff/admin
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/follow_holder/slime
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/trader/ship/toyshop
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/item/clothing/shoes/flats/black
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/ore/gold
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /turf/simulated/floor/tiled/steel_ridged
+	qdel() Count: 15
+	Destroy() Cost: 1ms
+Path: /obj/random/gloves
+	qdel() Count: 6
+	Destroy() Cost: 1ms
+Path: /datum/overmap_event/ion
+	qdel() Count: 6
+	Destroy() Cost: 1ms
+Path: /obj/random/advdevice
+	qdel() Count: 5
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/corner/paleblue/mono
+	qdel() Count: 5
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/corner/yellow/diagonal
+	qdel() Count: 5
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/techfloor/hole/right
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/torchltdlogo
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /obj/machinery/atmospherics/pipe/simple/visible/yellow
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /datum/overmap_event/carp/major
+	qdel() Count: 4
+	Destroy() Cost: 1ms
+Path: /obj/effect/landmark/corpse/lar_maria/zhp_guard
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/industrial/hatch
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/corner/b_green
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/random/hardsuit
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/effect/wingrille_spawn/reinforced
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /datum/trader/ship/clothingshop/shoes
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/random/plushie/large
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/effect/catwalk_plated/white
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/random/assembly
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/corner/yellow/full
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/steeldecal/steel_decals_central7
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/scalpel
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/sliceable/pizza/mushroompizza
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/sliceable/tofubread
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/carpet/corners
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/floor_decal/steeldecal/steel_decals_central6
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/landmark/corpse/marooned_officer
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/ammo_casing/shotgun
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/projectile/bullet/shotgun
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/ammo_casing/shotgun/flash
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/projectile/energy/flash/flare
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/ammo_casing/shotgun/pellet
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/projectile/bullet/pellet/shotgun
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/knife/combat
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/ammo_casing/shotgun/stunshell
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/magnetic_ammo/skrell
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/stock_parts/power/apc/buildable
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/stock_parts/power/terminal/buildable
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/stack/cable_coil/single
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/conveyor_construct
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/conveyor_switch_construct/oneway
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/firealarm_electronics
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/rcd_ammo
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/rcd
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/airlock_electronics
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/rocks
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/shake
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/cocktail
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/shot
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/pint
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/carafe
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/square
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/machinery/floor_light
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/extinguisher/empty
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/encryptionkey
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/suit_cooling_unit
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/cell/high
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/knife/kitchen
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/taperecorder/empty
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/light/tube/large
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/light/bulb
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/pen/red
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/clipboard/steel
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/clipboard/glass
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/handcuffs
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/circular_saw
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/cautery
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/glass/beaker
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/glass/beaker/insulated
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/glass/beaker/vial
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/syringe
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/hypospray/autoinjector/empty
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/device/integrated_electronics/wirer
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/wirecutters
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/weldingtool/largetank
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/welder_tank/large
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/kitchen/utensil/spoon
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/kitchen/utensil/foon
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/kitchen/utensil/spork/plastic
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/material/kitchen/utensil/fork
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/soylenviridians
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/fries
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/soydope
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/ricepudding
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/tofurkey
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/codex_category/cultures
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/codex_category/gases
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/codex_category/reagents
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/codex_category/species
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/decal/point
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/reagent/mercury
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/item/stack/material/plasteel
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/screen/fullscreen/blind
+	qdel() Count: 13
+	Destroy() Cost: 1ms
+Path: /obj/effect/meteor/silver
+	qdel() Count: 3
+	Destroy() Cost: 1ms
+Path: /obj/screen/movable/ability_master
+	qdel() Count: 2
+	Destroy() Cost: 1ms
+Path: /datum/disease2/effect/stomach
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/disease2/effect/twitch
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/structure/grille
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /datum/follow_holder/ghost
+	qdel() Count: 1
+	Destroy() Cost: 1ms
+Path: /obj/effect/decal/cleanable/ash
+	qdel() Count: 1
+	Destroy() Cost: 0.999999ms
+Path: /datum/follow_holder/human
+	qdel() Count: 6
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/skill_ui
+	qdel() Count: 5
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/alarm_monitor/all
+	qdel() Count: 4
+	Destroy() Cost: 0.999998ms
+Path: /datum/movement_handler/mob/eye
+	qdel() Count: 4
+	Destroy() Cost: 0.999998ms
+Path: /datum/movement_handler/mob/stop_effect
+	qdel() Count: 4
+	Destroy() Cost: 0.999998ms
+Path: /datum/movement_handler/mob/physically_restrained
+	qdel() Count: 4
+	Destroy() Cost: 0.999998ms
+Path: /obj/screen/close
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/program/comm
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/program/email_administration
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/program/computer_ntnetmonitor
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/camera_monitor
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/deck_management
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/docking
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/arcade_classic
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/library
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/nano_module/records
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/follow_holder/ai
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/hallucination/sound/tools
+	qdel() Count: 3
+	Destroy() Cost: 0.999998ms
+Path: /datum/follow_holder/voxstack
+	qdel() Count: 2
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/device/flashlight/flare/glowstick
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/clothing/under/solgov/utility/expeditionary/engineering
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/clothing/accessory/solgov/department/engineering
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/aura/regenerating/human/unathi
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/organ/internal/eyes/vox
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/organ/internal/lungs/gills
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/device/flash
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/borg/combat/shield
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /datum/wires/robot
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /datum/skill_buff/robot
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /datum/movement_handler/robot/use_power
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/item/weapon/cell/super
+	qdel() Count: 1
+	Destroy() Cost: 0.999998ms
+Path: /obj/effect/effect/smoke/chem
+	qdel() Count: 71
+	Destroy() Cost: 0ms
+	Sleeps: 71
+Path: /obj/random/ore_smug
+	qdel() Count: 35
+	Destroy() Cost: 0ms
+Path: /obj/screen/fullscreen/blackout
+	qdel() Count: 11
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/corner/yellow/mono
+	qdel() Count: 9
+	Destroy() Cost: 0ms
+Path: /obj/effect/landmark/corpse/lar_maria/virologist
+	qdel() Count: 8
+	Destroy() Cost: 0ms
+Path: /obj/effect/landmark/corpse/lar_maria/virologist_female
+	qdel() Count: 5
+	Destroy() Cost: 0ms
+Path: /obj/effect/landmark/corpse/lar_maria/zhp_guard/dark
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/crew_monitor
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/digitalwarrant
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /datum/movement_handler/mob/relayed_movement
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /datum/movement_handler/move_relay
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /datum/movement_handler/mob/space
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /datum/hallucination/gunfire
+	qdel() Count: 4
+	Destroy() Cost: 0ms
+Path: /obj/random/masks
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /turf/simulated/floor/tiled/techmaint
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/follow_holder/eye
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/skill_ui/antag/station/offstation
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/skill_ui/antag/station
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/atmos_control
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/supply
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/nano_module/forceauthorization
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/gunshop
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/reagent/ammonia
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/click_handler/default/mech
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /datum/reagent/nutriment/cherryjelly
+	qdel() Count: 3
+	Destroy() Cost: 0ms
+Path: /obj/effect/landmark/map_data
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/random/hat
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/stock_parts/power/battery/buildable/stock
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/random/single/playing_cards
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/industrial/hatch/red
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/corner/white/full
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/overmap_event/carp
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/clothingshop
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/screen/fullscreen/impaired
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/egunshop
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/vox
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/hallucination/sound/spooky
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/hallucination/spiderbabies
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/reagent/drink/juice/grape
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /obj/skybox
+	qdel() Count: 2
+	Destroy() Cost: 0ms
+Path: /datum/controller
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/global_init
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/effect/landmark/corpse/doctor
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/turbolift_map_holder/torch
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/corner/brown/three_quarters
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/random/vendor
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/corner/grey/border
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/corner/grey
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/effect/floor_decal/techfloor/hole
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/effect/landmark/corpse/zombiescience
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/ammo_magazine/shotholder/empty
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/magnetic_ammo/skrell/slug
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/hatchet/machete/steel
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/syringe_cartridge
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/stock_parts/keyboard
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/stock_parts/power/battery/buildable/crap
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/stock_parts/power/battery/buildable/turbo
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/stock_parts/power/battery/buildable/responsive
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/assembly/signaler
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/assembly/infra
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/proximity_trigger/line
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/assembly/prox_sensor
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/beartrap
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/cell/device/standard
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/reagent_containers/ecig_cartridge/blank
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/conveyor_switch_construct
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/stock_parts/console_screen
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/airalarm_electronics
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/module/power_control
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/rcd_ammo/large
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/camera_assembly
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/reagent_containers/glass/bucket
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/reagent_containers/food/drinks/glass2/mug
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/flashlight
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/glass_jar
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/clothing/head/welding
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/wires/taperecorder
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/tape
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/ashtray/glass
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/clothing/glasses/welding
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/pen
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/pen/blue
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/pen/green
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/clipboard/plastic
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/destTagger
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/hand_labeler
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/clothing/mask/plunger
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/surgicaldrill
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/retractor
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/hemostat
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/reagent_containers/glass/beaker/insulated/large
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/implanter
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/crowbar/prybar
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/integrated_electronics/debugger
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/integrated_electronics/analyzer
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/device/t_scanner
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/screwdriver
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/wrench
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/hatchet
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/minihoe
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/kitchen/utensil/spork
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/knife/table
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/kitchen/utensil/fork/plastic
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/kitchen/utensil/spoon/plastic
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/knife/table/plastic
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/weapon/material/kitchen/utensil/foon/plastic
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/codex_category/languages
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/codex_category/materials
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/codex_category/recipes
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/codex_category/skills
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/pipe_network
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/extension/appearance/cardborg
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/reagent/inaprovaline
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/reagent/hyronalin
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/trash/raisins
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/wound/burn/severe
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/unique/severance
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/reagent/lithium
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/unique/rock
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/screen/fullscreen/high
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/follow_holder/robot
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/trader/ship/replica_shop
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/screen/psi/armour
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/hallucination/telepahy
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/disease2/effect/shakey
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/disease2/effect/drowsness
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/disease2/effect/nothing
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/item/clothing/under/skirt_c/dress/long/eggshell
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/hud
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/movement_handler/mob/multiz_connected
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/movement_handler/mob/incorporeal
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/hud/slime
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /obj/screen/intent
+	qdel() Count: 1
+	Destroy() Cost: 0ms
+Path: /datum/wound/cut/deep
+	qdel() Count: 1
+	Destroy() Cost: 0ms

@@ -1,0 +1,25 @@
+
+
+Starting up. (ID: b31-bJ04) 21:28.05
+---------------------
+[18:00:00] b31-bJ04 MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[18:00:00] b31-bJ04 MISC: Database connection failed. Reverting to the legacy ban system.
+[18:00:00] b31-bJ04 ASGEN: Found 27455 ore turfs.
+[18:00:00] b31-bJ04 ASGEN: Set 1524 turfs to random minerals.
+[18:00:00] b31-bJ04 ASGEN: Set 476 turfs to high-chance random minerals.
+[18:00:00] b31-bJ04 ASGEN: Applied 8151 turfs.
+[18:00:00] b31-bJ04 ASGEN: Found 27389 ore turfs.
+[18:00:00] b31-bJ04 ASGEN: Set 1474 turfs to random minerals.
+[18:00:00] b31-bJ04 ASGEN: Set 526 turfs to high-chance random minerals.
+[18:00:00] b31-bJ04 ASGEN: Applied 13332 turfs.
+[18:00:00] b31-bJ04 DEBUG: Moved - Ricardo Bratton (mannequin) was deleted while still listening to the positronic brain.
+[18:00:00] b31-bJ04 DEBUG: Next event of severity Mundane in 16.29 minutes.
+[18:00:00] b31-bJ04 DEBUG: Next event of severity Moderate in 47.294 minutes.
+[18:00:00] b31-bJ04 DEBUG: Next event of severity Major in 98.6133 minutes.
+[18:04:41] b31-bJ04 DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[18:04:41] b31-bJ04 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[18:05:20] b31-bJ04 DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[18:05:20] b31-bJ04 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[18:17:20] b31-bJ04 DEBUG: Moved - the disposalholder was deleted while still listening to the disposal pipe.
+[18:17:53] b31-bJ04 DEBUG: Moved - the disposalholder was deleted while still listening to the disposal pipe.
+[18:25:43] b31-bJ04 DEBUG: Moved - the disposalholder was deleted while still listening to the disposal pipe.

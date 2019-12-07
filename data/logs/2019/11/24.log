@@ -1,0 +1,104 @@
+
+
+Starting up. (ID: b4n-bYx6) 23:00.16
+---------------------
+[04:00:00] b4n-bYx6 MISC: Saved mode is 'secret'
+[04:00:00] b4n-bYx6 ADMIN: Loading jobban_rank
+[04:00:00] b4n-bYx6 ADMIN: jobban_keylist was empty
+[04:00:00] b4n-bYx6 ADMIN: Loading Banlist
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Plants subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Early Initialization subsystem within 0.1 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Robots subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 GAME: Z-level Derelict Station loaded at 1,1,10
+[04:00:00] b4n-bYx6 GAME: Z-level Casino loaded at 50,50,11
+[04:00:00] b4n-bYx6 ASGEN: Found 27613 ore turfs.
+[04:00:00] b4n-bYx6 ASGEN: Set 1500 turfs to random minerals.
+[04:00:00] b4n-bYx6 ASGEN: Set 500 turfs to high-chance random minerals.
+[04:00:00] b4n-bYx6 ASGEN: Applied 532 turfs.
+[04:00:00] b4n-bYx6 GAME: Z-level Smugglers' Base loaded at 50,50,12
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Mapping subsystem within 8.1 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Jobs subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Circuit subsystem within 0.1 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Atoms subsystem within 46.3 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Machines subsystem within 2.1 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Icon Updates subsystem within 0.4 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Event Manager subsystem within 0.1 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Trade subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Air subsystem within 3 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Ruin "Marooned" placed at (100, 88, 17)
+[04:00:00] b4n-bYx6 GAME: Marooned loaded at at 85,73,17
+[04:00:00] b4n-bYx6 DD_OUTPUT: Ruin "spider nest" placed at (153, 97, 17)
+[04:00:00] b4n-bYx6 GAME: spider nest loaded at at 149,93,17
+[04:00:00] b4n-bYx6 DD_OUTPUT: Ruin "ejected data capsule" placed at (27, 134, 17)
+[04:00:00] b4n-bYx6 GAME: random datapod contents #1 (chem vials) loaded at at 26,131,17
+[04:00:00] b4n-bYx6 GAME: ejected data capsule loaded at at 24,129,17
+[04:00:00] b4n-bYx6 DD_OUTPUT: Ruin "tar anomaly" placed at (141, 39, 17)
+[04:00:00] b4n-bYx6 GAME: tar anomaly loaded at at 136,34,17
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Late Initialization subsystem within 60.6 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Cuisine subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Custom Items subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Fabrication subsystem within 0.5 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Persistence subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Codex subsystem within 0.3 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Alarm subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Goals subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Shuttle subsystem within 0.2 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Lighting subsystem within 14.6 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Xenoarch subsystem within 0.2 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initialized Ticker subsystem within 0 seconds!
+[04:00:00] b4n-bYx6 DD_OUTPUT: Initializations complete within 136.8 seconds!
+[04:00:00] b4n-bYx6 VOTE: Game mode vote started by the server.
+[04:00:00] b4n-bYx6 ACCESS: Login: Frolex/(Frolex) from 95.30.131.196-4281853728 || BYOND v512
+[04:00:00] b4n-bYx6 VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[04:00:00] b4n-bYx6 DEBUG: Next event of severity Mundane in 13.7 minutes.
+[04:00:00] b4n-bYx6 DEBUG: Next event of severity Moderate in 34.5717 minutes.
+[04:00:00] b4n-bYx6 DEBUG: Next event of severity Major in 94.21 minutes.
+[04:00:07] b4n-bYx6 EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the popsicle stick.
+[04:00:41] b4n-bYx6 ACCESS: Logout: frolex/(Frolex)
+[04:00:41] b4n-bYx6 ACCESS: Login: Frolex/(Kikaahk) from 95.30.131.196-4281853728 || BYOND v512
+[04:00:41] b4n-bYx6 ADMIN: Frolex/(Kikaahk) has joined the round as Merchant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=55;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)
+[04:00:41] b4n-bYx6 ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Frolex</a>/(Kikaahk) has joined the round as Merchant. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=55;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)</span></span>
+[04:01:37] b4n-bYx6 EMOTE: crab/ : <B>The crab</B> clacks.
+[04:07:31] b4n-bYx6 SAY: grey baby slime (197)/ : Blop...
+[04:08:05] b4n-bYx6 ADMIN: Frolex/(Kikaahk) has entered a stasis pod (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=55;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)
+[04:08:05] b4n-bYx6 ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Frolex</a>/(Kikaahk) has entered a stasis pod (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=55;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)</span></span>
+[04:08:11] b4n-bYx6 ADMIN: Frolex/(Kikaahk) has ghosted. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=55;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)
+[04:08:11] b4n-bYx6 ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Frolex</a>/(Kikaahk) has ghosted. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=124;Y=55;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)</span></span>
+[04:08:11] b4n-bYx6 ACCESS: Logout: frolex/(Kikaahk)
+[04:08:11] b4n-bYx6 ACCESS: Login: Frolex/(Kikaahk) from 95.30.131.196-4281853728 || BYOND v512
+[04:08:11] b4n-bYx6 SAY: (DSAY) Frolex - usr: frolex/(Kikaahk) : The ghost of <span class='name'>Kikaahk</span> now stalks among the dead at the Merchant Station. 
+[04:08:11] b4n-bYx6 ADMIN: EVENT frolex/(Kikaahk) (Merchant) entered cryostorage.
+[04:08:11] b4n-bYx6 ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message">EVENT frolex/(Kikaahk) (Merchant) entered cryostorage.</span></span>
+[04:08:13] b4n-bYx6 DEBUG: Moved - Power Supply was deleted while still listening to Cryogenic Oversight.
+[04:08:13] b4n-bYx6 DEBUG: Moved - Cryogenic Oversight was deleted while still listening to the intercom (General).
+[04:08:13] b4n-bYx6 DEBUG: Moved - Unknown was deleted while still listening to the cryogenic freezer (Kikaahk).
+[04:09:23] b4n-bYx6 SAY: (DSAY) Frolex - usr: Frolex/(Kikaahk) : <span class='name'>Kikaahk</span> no longer lurks in the realm of the dead. 
+[04:09:23] b4n-bYx6 ACCESS: Logout: frolex/(Kikaahk)
+[04:09:23] b4n-bYx6 ACCESS: Login: Frolex/(new player) from 95.30.131.196-4281853728 || BYOND v512
+[04:09:23] b4n-bYx6 ADMIN: Frolex/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)
+[04:09:23] b4n-bYx6 ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Frolex</a>/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000fd]'>MOB</a>)</span></span>
+[04:11:51] b4n-bYx6 EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:13:39] b4n-bYx6 DEBUG: Next event of severity Mundane in 16.868 minutes.
+[04:13:39] b4n-bYx6 DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[04:13:42] b4n-bYx6 ADMIN: EVENT Vermin infestation spawned (lizards x6) in the First Deck Head (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=100;Z=5'>LOC</a>)
+[04:13:42] b4n-bYx6 ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message">EVENT Vermin infestation spawned (lizards x6) in the First Deck Head (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=74;Y=100;Z=5'>LOC</a>)</span></span>
+[04:14:04] b4n-bYx6 DEBUG: Event 'Vermin Infestation' has completed at 04:19.
+[04:14:59] b4n-bYx6 ACCESS: Logout: Frolex/(new player)
+[04:16:44] b4n-bYx6 ACCESS: Login: Cl4b/(Cl4b) from 58.160.114.125-3809051363 || BYOND v512
+[04:17:36] b4n-bYx6 ACCESS: Logout: Cl4b/(Cl4b)
+[04:17:53] b4n-bYx6 ACCESS: Login: Cokecrotch/(Cokecrotch) from 178.19.255.85-3496466766 || BYOND v512
+[04:18:08] b4n-bYx6 ACCESS: Logout: Cokecrotch/(Cokecrotch)

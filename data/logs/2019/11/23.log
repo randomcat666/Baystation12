@@ -1,0 +1,130 @@
+
+
+Starting up. (ID: b4l-cbaW) 00:21.11
+---------------------
+[13:00:00] b4l-cbaW MISC: Saved mode is 'traitor'
+[13:00:00] b4l-cbaW ADMIN: Loading jobban_rank
+[13:00:00] b4l-cbaW ADMIN: jobban_keylist was empty
+[13:00:00] b4l-cbaW ADMIN: Loading Banlist
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Plants subsystem within 0.1 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Early Initialization subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Robots subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[13:00:00] b4l-cbaW GAME: Z-level University Ship loaded at 50,50,12
+[13:00:00] b4l-cbaW GAME: Z-level Ascent seedship loaded at 40,40,13
+[13:00:00] b4l-cbaW ASGEN: Found 28114 ore turfs.
+[13:00:00] b4l-cbaW ASGEN: Set 1476 turfs to random minerals.
+[13:00:00] b4l-cbaW ASGEN: Set 524 turfs to high-chance random minerals.
+[13:00:00] b4l-cbaW ASGEN: Applied 3141 turfs.
+[13:00:00] b4l-cbaW GAME: Z-level Bluespace River loaded at 50,50,15
+[13:00:00] b4l-cbaW GAME: Z-level Skrellian Scout Ship loaded at 40,40,17
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Mapping subsystem within 14.1 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Jobs subsystem within 0.1 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Circuit subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Atoms subsystem within 61 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Machines subsystem within 2.7 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Icon Updates subsystem within 0.4 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Event Manager subsystem within 0.1 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Trade subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Air subsystem within 3.6 seconds!
+[13:00:00] b4l-cbaW DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!
+[13:00:00] b4l-cbaW ASGEN: Found 8013 ore turfs.
+[13:00:00] b4l-cbaW ASGEN: Set 1399 turfs to random minerals.
+[13:00:00] b4l-cbaW ASGEN: Set 463 turfs to high-chance random minerals.
+[13:00:00] b4l-cbaW ASGEN: Applied 34969 turfs.
+
+
+Starting up. (ID: b4l-cdFh) 00:37.07
+---------------------
+[13:00:00] b4l-cdFh MISC: Saved mode is 'traitor'
+[13:00:00] b4l-cdFh ADMIN: Loading jobban_rank
+[13:00:00] b4l-cdFh ADMIN: jobban_keylist was empty
+[13:00:00] b4l-cdFh ADMIN: Loading Banlist
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Plants subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Early Initialization subsystem within 0.1 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Robots subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[13:00:00] b4l-cdFh ASGEN: Found 27595 ore turfs.
+[13:00:00] b4l-cdFh ASGEN: Set 1527 turfs to random minerals.
+[13:00:00] b4l-cdFh ASGEN: Set 473 turfs to high-chance random minerals.
+[13:00:00] b4l-cdFh ASGEN: Applied 13332 turfs.
+[13:00:00] b4l-cdFh GAME: Z-level Mining - Asteroid loaded at 1,1,10
+[13:00:00] b4l-cdFh GAME: Z-level Casino loaded at 50,50,11
+[13:00:00] b4l-cdFh GAME: Z-level Yacht loaded at 50,50,12
+[13:00:00] b4l-cdFh GAME: Z-level Ascent seedship loaded at 40,40,13
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Mapping subsystem within 15.9 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Jobs subsystem within 0.1 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Circuit subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Atoms subsystem within 52.1 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Machines subsystem within 2.3 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Icon Updates subsystem within 0.4 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Event Manager subsystem within 0.1 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Trade subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Air subsystem within 3.4 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!
+[13:00:00] b4l-cdFh ASGEN: Found 8115 ore turfs.
+[13:00:00] b4l-cdFh ASGEN: Set 1368 turfs to random minerals.
+[13:00:00] b4l-cdFh ASGEN: Set 494 turfs to high-chance random minerals.
+[13:00:00] b4l-cdFh ASGEN: Applied 34969 turfs.
+[13:00:00] b4l-cdFh DD_OUTPUT: Ruin "Fountain of Youth" placed at (143, 158, 20)
+[13:00:00] b4l-cdFh GAME: Fountain of Youth loaded at at 140,155,20
+[13:00:00] b4l-cdFh DD_OUTPUT: Ruin "established colony" placed at (91, 149, 20)
+[13:00:00] b4l-cdFh GAME: established colony loaded at at 71,130,20
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Late Initialization subsystem within 110.5 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Cuisine subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Custom Items subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Fabrication subsystem within 0.6 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Persistence subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Codex subsystem within 0.3 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Alarm subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Goals subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Shuttle subsystem within 0.2 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Lighting subsystem within 4.6 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Xenoarch subsystem within 0.4 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initialized Ticker subsystem within 0 seconds!
+[13:00:00] b4l-cdFh DD_OUTPUT: Initializations complete within 191.2 seconds!
+[13:00:00] b4l-cdFh VOTE: Game mode vote started by the server.
+[13:00:00] b4l-cdFh ACCESS: Login: Cokecrotch/(Cokecrotch) from 178.19.255.85-3496466766 || BYOND v512
+[13:00:00] b4l-cdFh VOTE: <b>Vote Result: Secret</b>
+Second place: Changeling, third place: Cult
+[13:00:00] b4l-cdFh DEBUG: Next event of severity Mundane in 16.428 minutes.
+[13:00:00] b4l-cdFh DEBUG: Next event of severity Moderate in 31.8367 minutes.
+[13:00:00] b4l-cdFh DEBUG: Next event of severity Major in 83.21 minutes.
+[13:00:09] b4l-cdFh ACCESS: Logout: Cokecrotch/(Cokecrotch)
+[13:00:24] b4l-cdFh EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the natural philosopher&#39;s wig.
+[13:00:36] b4l-cdFh ACCESS: Login: Cokecrotch/(Cokecrotch) from 178.19.255.85-3496466766 || BYOND v512
+[13:01:08] b4l-cdFh EMOTE: Ian/ : <B>Ian</B> dances around.
+[13:02:28] b4l-cdFh EMOTE: giant spider/ : <B>The giant spider</B> raises its forelegs at the dview.
+[13:02:32] b4l-cdFh ADMIN: Cokecrotch/(Cokecrotch) User Cokecrotch spawned at spawn point with dangerous atmosphere. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000065]'>MOB</a>)
+[13:02:32] b4l-cdFh ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Cokecrotch</a>/(Cokecrotch) User Cokecrotch spawned at spawn point with dangerous atmosphere. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000065]'>MOB</a>)</span></span>
+[13:02:32] b4l-cdFh DEBUG: Player: Cokecrotch is now offsite rank: Ascent Gyne (Cerium-95-10), JCP:0, JPL:1
+[13:02:32] b4l-cdFh ACCESS: Logout: cokecrotch/(Cokecrotch)
+[13:02:32] b4l-cdFh ACCESS: Login: Cokecrotch/(Lalla Kemerer) from 178.19.255.85-3496466766 || BYOND v512
+[13:02:32] b4l-cdFh ACCESS: Login: Cokecrotch/(Lalla Kemerer) from 178.19.255.85-3496466766 || BYOND v512
+[13:02:32] b4l-cdFh ADMIN: Cokecrotch/(17 Pure Scowle) has joined the round as offsite role Ascent Gyne. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=97;Y=98;Z=13'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000069]'>MOB</a>)
+[13:02:32] b4l-cdFh ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Cokecrotch</a>/(17 Pure Scowle) has joined the round as offsite role Ascent Gyne. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=97;Y=98;Z=13'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000069]'>MOB</a>)</span></span>
+[13:03:41] b4l-cdFh ACCESS: Logout: Cokecrotch/(17 Pure Scowle)

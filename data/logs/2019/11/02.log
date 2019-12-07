@@ -1,0 +1,69 @@
+
+
+Starting up. (ID: b32-bZtQ) 23:06.14
+---------------------
+[23:00:00] b32-bZtQ MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[23:00:00] b32-bZtQ MISC: Database connection failed. Reverting to the legacy ban system.
+[23:00:00] b32-bZtQ ASGEN: Found 27423 ore turfs.
+[23:00:00] b32-bZtQ ASGEN: Set 1533 turfs to random minerals.
+[23:00:00] b32-bZtQ ASGEN: Set 467 turfs to high-chance random minerals.
+[23:00:00] b32-bZtQ ASGEN: Applied 33144 turfs.
+[23:00:00] b32-bZtQ ASGEN: Found 27686 ore turfs.
+[23:00:00] b32-bZtQ ASGEN: Set 1508 turfs to random minerals.
+[23:00:00] b32-bZtQ ASGEN: Set 492 turfs to high-chance random minerals.
+[23:00:00] b32-bZtQ ASGEN: Applied 532 turfs.
+[23:00:00] b32-bZtQ ASGEN: Found 7870 ore turfs.
+[23:00:00] b32-bZtQ ASGEN: Set 1448 turfs to random minerals.
+[23:00:00] b32-bZtQ ASGEN: Set 414 turfs to high-chance random minerals.
+[23:00:00] b32-bZtQ ASGEN: Applied 34969 turfs.
+[23:00:00] b32-bZtQ DEBUG: Next event of severity Mundane in 15.084 minutes.
+[23:00:00] b32-bZtQ DEBUG: Next event of severity Moderate in 51.426 minutes.
+[23:00:00] b32-bZtQ DEBUG: Next event of severity Major in 96.885 minutes.
+[23:04:18] b32-bZtQ DEBUG: Moved - Angel Guess (mannequin) was deleted while still listening to the positronic brain.
+[23:05:04] b32-bZtQ DEBUG: Moved - Angel Guess (mannequin) was deleted while still listening to the positronic brain.
+
+
+Starting up. (ID: b32-b5a3) 23:36.19
+---------------------
+[13:00:00] b32-b5a3 MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[13:00:00] b32-b5a3 MISC: Database connection failed. Reverting to the legacy ban system.
+[13:00:00] b32-b5a3 ASGEN: Found 27335 ore turfs.
+[13:00:00] b32-b5a3 ASGEN: Set 1496 turfs to random minerals.
+[13:00:00] b32-b5a3 ASGEN: Set 504 turfs to high-chance random minerals.
+[13:00:00] b32-b5a3 ASGEN: Applied 8151 turfs.
+[13:00:00] b32-b5a3 ASGEN: Found 8942 ore turfs.
+[13:00:00] b32-b5a3 ASGEN: Set 1510 turfs to random minerals.
+[13:00:00] b32-b5a3 ASGEN: Set 490 turfs to high-chance random minerals.
+[13:00:00] b32-b5a3 ASGEN: Applied 34225 turfs.
+[13:00:00] b32-b5a3 DEBUG: Next event of severity Mundane in 15.134 minutes.
+[13:00:00] b32-b5a3 DEBUG: Next event of severity Moderate in 53.654 minutes.
+[13:00:00] b32-b5a3 DEBUG: Next event of severity Major in 87.6917 minutes.
+[13:00:00] b32-b5a3 DEBUG: The Entire Roman Empire had malf enabled, so we are drafting them.
+[13:00:00] b32-b5a3 DEBUG: The Entire Roman Empire had traitor enabled, so we are drafting them.
+[13:00:55] b32-b5a3 DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[13:00:55] b32-b5a3 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[13:01:19] b32-b5a3 DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[13:01:19] b32-b5a3 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[13:03:02] b32-b5a3 DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[13:03:02] b32-b5a3 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[13:04:19] b32-b5a3 DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[13:04:19] b32-b5a3 DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[13:09:08] b32-b5a3 DEBUG: Carp migration event spawned 17 carp.
+[13:09:08] b32-b5a3 DEBUG: Event 'Overmap event - carp shoal' has completed at 13:14.
+[13:10:34] b32-b5a3 DEBUG: Carp migration event spawned 17 carp.
+[13:10:34] b32-b5a3 DEBUG: Event 'Overmap event - carp shoal' has completed at 13:16.
+[13:17:18] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:22.
+[13:20:25] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:25.
+[13:21:47] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:27.
+[13:23:05] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:28.
+[13:24:24] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:29.
+[13:25:20] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:30.
+[13:26:20] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:31.
+[13:27:30] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:32.
+[13:29:02] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:34.
+[13:29:48] b32-b5a3 DEBUG: Event 'Overmap event - dust cloud' has completed at 13:35.
+[13:32:06] b32-b5a3 DEBUG: Event 'Overmap event - electrical storm' has completed at 13:37.
+[13:39:12] b32-b5a3 DEBUG: Event 'Overmap event - asteroid field' has completed at 13:44.
+[13:41:54] b32-b5a3 DEBUG: Moved - the disposalholder was deleted while still listening to the disposal pipe.
+[13:43:36] b32-b5a3 DEBUG: Carp migration event spawned 63 carp.
+[13:43:36] b32-b5a3 DEBUG: Event 'Overmap event - carp school' has completed at 13:49.
