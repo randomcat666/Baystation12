@@ -1,0 +1,429 @@
+
+
+Starting up. (ID: b4a-bGkH) 21:03.34
+---------------------
+[23:00:00] b4a-bGkH MISC: Saved mode is 'traitor'
+[23:00:00] b4a-bGkH ADMIN: Loading jobban_rank
+[23:00:00] b4a-bGkH ADMIN: jobban_keylist was empty
+[23:00:00] b4a-bGkH ADMIN: Loading Banlist
+[23:00:00] b4a-bGkH ACCESS: Login: Randomcat666/(Randomcat666) from 121.213.113.174-2280897090 || BYOND v512
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Plants subsystem within 0.1 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Early Initialization subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Robots subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[23:00:00] b4a-bGkH GAME: Z-level Errant Pisces loaded at 1,1,10
+[23:00:00] b4a-bGkH GAME: Z-level Casino loaded at 50,50,11
+[23:00:00] b4a-bGkH ASGEN: Found 27263 ore turfs.
+[23:00:00] b4a-bGkH ASGEN: Set 1507 turfs to random minerals.
+[23:00:00] b4a-bGkH ASGEN: Set 493 turfs to high-chance random minerals.
+[23:00:00] b4a-bGkH ASGEN: Applied 8151 turfs.
+[23:00:00] b4a-bGkH GAME: Z-level Mining - Orb loaded at 1,1,12
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Mapping subsystem within 14.5 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Jobs subsystem within 0.1 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Circuit subsystem within 0.1 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Atoms subsystem within 50.8 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Machines subsystem within 2.5 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Icon Updates subsystem within 0.4 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Event Manager subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Trade subsystem within 0.1 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Air subsystem within 3.3 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!
+[23:00:00] b4a-bGkH ASGEN: Found 7924 ore turfs.
+[23:00:00] b4a-bGkH ASGEN: Set 1424 turfs to random minerals.
+[23:00:00] b4a-bGkH ASGEN: Set 438 turfs to high-chance random minerals.
+[23:00:00] b4a-bGkH ASGEN: Applied 34969 turfs.
+[23:00:00] b4a-bGkH ACCESS: Logout: Randomcat666/(Randomcat666)
+[23:00:00] b4a-bGkH DD_OUTPUT: Ruin "Marooned" placed at (160, 95, 17)
+[23:00:00] b4a-bGkH GAME: Marooned loaded at at 145,80,17
+[23:00:00] b4a-bGkH DD_OUTPUT: Ruin "Monolith Ring" placed at (110, 82, 17)
+[23:00:00] b4a-bGkH GAME: Monolith Ring loaded at at 105,77,17
+[23:00:00] b4a-bGkH DD_OUTPUT: Ruin "Fountain of Youth" placed at (141, 144, 17)
+[23:00:00] b4a-bGkH GAME: Fountain of Youth loaded at at 138,141,17
+[23:00:00] b4a-bGkH DD_OUTPUT: Ruin "drill site" placed at (173, 121, 17)
+[23:00:00] b4a-bGkH GAME: drill site loaded at at 170,118,17
+[23:00:00] b4a-bGkH DD_OUTPUT: Ruin "old pod" placed at (134, 133, 17)
+[23:00:00] b4a-bGkH GAME: old pod loaded at at 129,128,17
+[23:00:00] b4a-bGkH DD_OUTPUT: Ruin "tar anomaly" placed at (43, 111, 17)
+[23:00:00] b4a-bGkH GAME: tar anomaly loaded at at 38,106,17
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Late Initialization subsystem within 92.4 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Cuisine subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Custom Items subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Fabrication subsystem within 0.6 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Persistence subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Codex subsystem within 0.3 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Alarm subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Goals subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Shuttle subsystem within 0.1 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Lighting subsystem within 4.4 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Xenoarch subsystem within 0.3 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initialized Ticker subsystem within 0 seconds!
+[23:00:00] b4a-bGkH DD_OUTPUT: Initializations complete within 170.2 seconds!
+[23:00:00] b4a-bGkH VOTE: Game mode vote started by the server.
+[23:00:00] b4a-bGkH ACCESS: Login: Vendigio/(Vendigio) from 178.19.255.85-3496466766 || BYOND v512
+[23:00:00] b4a-bGkH ACCESS: Logout: Vendigio/(Vendigio)
+[23:00:00] b4a-bGkH VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:00:00] b4a-bGkH ACCESS: Login: Fetching2Ghost/(Fetching2Ghost) from 31.0.23.80-889598256 || BYOND v512
+[23:00:00] b4a-bGkH DEBUG: Next event of severity Mundane in 14.84 minutes.
+[23:00:00] b4a-bGkH DEBUG: Next event of severity Moderate in 39.9117 minutes.
+[23:00:00] b4a-bGkH DEBUG: Next event of severity Major in 95.74 minutes.
+[23:00:02] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the space carp.
+[23:00:02] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[23:00:02] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at Brendan Nehling.
+[23:00:08] b4a-bGkH EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the wrapper.
+[23:00:08] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[23:00:08] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[23:00:08] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[23:00:08] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[23:00:08] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[23:03:52] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[23:07:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[23:11:48] b4a-bGkH SAY: grey baby slime (681)/ : Lonely...
+[23:12:38] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[23:13:04] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[23:14:48] b4a-bGkH DEBUG: Next event of severity Mundane in 14.518 minutes.
+[23:14:48] b4a-bGkH DEBUG: Starting event 'Trivial News' of severity Mundane.
+[23:15:11] b4a-bGkH DEBUG: Event 'Trivial News' has completed at 23:20.
+[23:15:34] b4a-bGkH SAY: grey baby slime (1)/ : Lonely...
+[23:18:16] b4a-bGkH SAY: grey baby slime (681)/ : Rawr...
+[23:29:14] b4a-bGkH DEBUG: Moved - Sawyer Paulson was deleted while still listening to Sawyer Paulson's brain.
+[23:29:14] b4a-bGkH DEBUG: Moved - Sawyer Paulson's brain was deleted while still listening to Sawyer Paulson's head.
+[23:29:14] b4a-bGkH DEBUG: Moved - Vincent Aultman was deleted while still listening to Vincent Aultman's brain.
+[23:29:14] b4a-bGkH DEBUG: Moved - Vincent Aultman's brain was deleted while still listening to Vincent Aultman's head.
+[23:29:14] b4a-bGkH DEBUG: Moved - Sadie Hoover was deleted while still listening to Sadie Hoover's brain.
+[23:29:14] b4a-bGkH DEBUG: Moved - Sadie Hoover's brain was deleted while still listening to Sadie Hoover's head.
+[23:29:20] b4a-bGkH DEBUG: Next event of severity Mundane in 13.82 minutes.
+[23:29:20] b4a-bGkH DEBUG: Starting event 'Nothing' of severity Mundane.
+[23:29:22] b4a-bGkH DEBUG: Event 'Nothing' has completed at 23:34.
+[23:29:40] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[23:30:18] b4a-bGkH DEBUG: Moved - Pirate was deleted while still listening to Pirate's brain.
+[23:30:18] b4a-bGkH DEBUG: Moved - Pirate's brain was deleted while still listening to Pirate's head.
+[23:31:14] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[23:35:24] b4a-bGkH SAY: grey baby slime (681)/ : Lonely...
+[23:36:26] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[23:39:53] b4a-bGkH DEBUG: Next event of severity Moderate in 50.454 minutes.
+[23:39:53] b4a-bGkH DEBUG: Starting event 'Nothing' of severity Moderate.
+[23:39:55] b4a-bGkH DEBUG: Event 'Nothing' has completed at 23:45.
+[23:40:16] b4a-bGkH SAY: grey baby slime (1)/ : Lonely...
+[23:43:11] b4a-bGkH DEBUG: Next event of severity Mundane in 17.338 minutes.
+[23:43:11] b4a-bGkH DEBUG: Starting event 'Shipping Error' of severity Mundane.
+[23:43:13] b4a-bGkH DEBUG: Event 'Shipping Error' has completed at 23:48.
+[23:48:20] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[23:55:56] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[23:57:18] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:00:31] b4a-bGkH DEBUG: Next event of severity Mundane in 12.638 minutes.
+[00:00:31] b4a-bGkH DEBUG: Starting event 'Camera Damage' of severity Mundane.
+[00:00:33] b4a-bGkH DEBUG: Event 'Camera Damage' has completed at 00:05.
+[00:01:48] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:01:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:36] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:02:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:36] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:42] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:03:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:03:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:36] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:04:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:05:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:05:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:05:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:05:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:05:46] b4a-bGkH SAY: grey baby slime (1)/ : Lonely...
+[00:06:06] b4a-bGkH SAY: grey baby slime (681)/ : Blorble...
+[00:08:50] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:08:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:08:56] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:09:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:09:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:09:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:10:16] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:12:54] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:13:10] b4a-bGkH DEBUG: Next event of severity Mundane in 15.68 minutes.
+[00:13:10] b4a-bGkH DEBUG: Starting event 'Economic News' of severity Mundane.
+[00:13:42] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:16:10] b4a-bGkH SAY: grey baby slime (1)/ : Blop...
+[00:17:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:17:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:18:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:18:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:19:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:19:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:19:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:19:25] b4a-bGkH ACCESS: Logout: fetching2ghost/(Fetching2Ghost)
+[00:19:25] b4a-bGkH ACCESS: Login: Fetching2Ghost/(James DeLancey) from 31.0.23.80-889598256 || BYOND v512
+[00:19:27] b4a-bGkH DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[00:19:27] b4a-bGkH DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[00:19:27] b4a-bGkH ADMIN: Fetching2Ghost/(James DeLancey) has joined the round as Prospector. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=81;Y=89;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008b]'>MOB</a>)
+[00:19:27] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Fetching2Ghost</a>/(James DeLancey) has joined the round as Prospector. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=81;Y=89;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300008b]'>MOB</a>)</span></span>
+[00:19:36] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:19:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:19:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:20:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:20:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:20:06] b4a-bGkH DEBUG: Event 'Economic News' has completed at 00:25.
+[00:20:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:20:22] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:20:36] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:20:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:21:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:21:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:22:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:22:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:23:20] b4a-bGkH ACCESS: Logout: Fetching2Ghost/(James DeLancey)
+[00:23:48] b4a-bGkH SAY: grey baby slime (681)/ : Blop...
+[00:23:57] b4a-bGkH ACCESS: Login: Vendigio/(Vendigio) from 178.19.255.85-3496466766 || BYOND v512
+[00:24:15] b4a-bGkH ACCESS: Logout: vendigio/(Vendigio)
+[00:24:15] b4a-bGkH ACCESS: Login: Vendigio/(Kerena Catleay) from 178.19.255.85-3496466766 || BYOND v512
+[00:24:15] b4a-bGkH ACCESS: Logout: vendigio/(Kerena Catleay)
+[00:24:15] b4a-bGkH ACCESS: Login: Vendigio/(FG-N1) from 178.19.255.85-3496466766 || BYOND v512
+[00:24:16] b4a-bGkH DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[00:24:16] b4a-bGkH DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[00:24:21] b4a-bGkH ADMIN: Vendigio/(FG-N1) Vendigio/(FG-N1) has called the shuttle. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=103;Z=6'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000095]'>MOB</a>)
+[00:24:21] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Vendigio</a>/(FG-N1) Vendigio/(FG-N1) has called the shuttle. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=118;Y=103;Z=6'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000095]'>MOB</a>)</span></span>
+[00:25:01] b4a-bGkH ACCESS: Logout: Vendigio/(FG-N1)
+[00:25:05] b4a-bGkH ACCESS: Login: Vendigio/(FG-N1) from 178.19.255.85-3496466766 || BYOND v512
+[00:25:28] b4a-bGkH EMOTE: Poppy the Safety Possum/ : <B>Poppy the Safety Possum</B> lounges.
+[00:26:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:26:55] b4a-bGkH DEBUG: Moved - Power Supply was deleted while still listening to Artificial Intelligence Oversight.
+[00:26:55] b4a-bGkH DEBUG: Moved - Artificial Intelligence Oversight was deleted while still listening to the shortwave radio.
+[00:26:55] b4a-bGkH ACCESS: Logout: vendigio/(FG-N1)
+[00:26:55] b4a-bGkH ACCESS: Login: Vendigio/(Kerena Catleay) from 178.19.255.85-3496466766 || BYOND v512
+[00:26:55] b4a-bGkH DEBUG: Moved - Power Supply was deleted while still listening to FG-N1.
+[00:28:28] b4a-bGkH SAY: (DSAY) Vendigio - usr: Vendigio/(Kerena Catleay) : <span class='name'>Kerena Catleay</span> no longer lurks in the realm of the dead. 
+[00:28:28] b4a-bGkH ACCESS: Logout: vendigio/(Kerena Catleay)
+[00:28:28] b4a-bGkH ACCESS: Login: Vendigio/(new player) from 178.19.255.85-3496466766 || BYOND v512
+[00:28:28] b4a-bGkH ADMIN: Vendigio/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000095]'>MOB</a>)
+[00:28:28] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Vendigio</a>/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000095]'>MOB</a>)</span></span>
+[00:28:37] b4a-bGkH ACCESS: Logout: Vendigio/(new player)
+[00:28:51] b4a-bGkH ACCESS: Login: LuxikMC/(LuxikMC) from 78.80.17.249-693149674 || BYOND v512
+[00:28:52] b4a-bGkH DEBUG: Next event of severity Mundane in 16.058 minutes.
+[00:28:52] b4a-bGkH DEBUG: Starting event 'Mundane News' of severity Mundane.
+[00:29:15] b4a-bGkH DEBUG: Event 'Mundane News' has completed at 00:34.
+[00:29:22] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:30:21] b4a-bGkH DEBUG: Next event of severity Moderate in 43.772 minutes.
+[00:30:21] b4a-bGkH DEBUG: Starting event 'Toilet Flooding' of severity Moderate.
+[00:30:23] b4a-bGkH DEBUG: Event 'Toilet Flooding' has completed at 00:35.
+[00:30:32] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:33:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:33:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:34:23] b4a-bGkH GAME: Antagonists at round end were...
+[00:34:23] b4a-bGkH VOTE: Map vote started by the server.
+[00:34:24] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">STAFF LOG:</span> <span class="message"><span class='warning'><b>No active tickets remaining, restarting in 60 seconds if an admin has not delayed the round end.</b></span></span></span>
+[00:34:40] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:35:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:35:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:35:23] b4a-bGkH VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[00:35:41] b4a-bGkH DEBUG: Next event of severity Major in 72.754 minutes.
+[00:35:41] b4a-bGkH DEBUG: Starting event 'Nothing' of severity Major.
+[00:35:43] b4a-bGkH DEBUG: Event 'Nothing' has completed at 00:41.
+[00:36:28] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:36:36] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:36:46] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:36:50] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:37:20] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:37:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:38:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:38:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:39:02] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:39:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:41:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:43:01] b4a-bGkH ACCESS: Logout: LuxikMC/(LuxikMC)
+[00:43:04] b4a-bGkH ACCESS: Login: LuxikMC/(LuxikMC) from 78.80.17.249-693149674 || BYOND v512
+[00:43:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:43:22] b4a-bGkH SAY: grey baby slime (681)/ : Rawr...
+[00:43:22] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:43:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:44:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:44:41] b4a-bGkH SAY: (DSAY) LuxikMC - usr: LuxikMC/(LuxikMC) : The ghost of <span class='name'>LuxikMC</span> now creeps among the dead. 
+[00:44:41] b4a-bGkH DEBUG: Moved - Test Dummy was deleted while still listening to the positronic brain.
+[00:44:41] b4a-bGkH ACCESS: Logout: luxikmc/(LuxikMC)
+[00:44:41] b4a-bGkH ACCESS: Login: LuxikMC/(Peter) from 78.80.17.249-693149674 || BYOND v512
+[00:44:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:44:57] b4a-bGkH DEBUG: Next event of severity Mundane in 12.682 minutes.
+[00:44:57] b4a-bGkH DEBUG: Starting event 'Computer Update' of severity Mundane.
+[00:44:59] b4a-bGkH DEBUG: Event 'Computer Update' has completed at 00:50.
+[00:45:05] b4a-bGkH ACCESS: Logout: luxikmc/(Peter)
+[00:45:05] b4a-bGkH ACCESS: Login: luxikmc/(unknown) from 78.80.17.249-693149674 || BYOND v512
+[00:45:15] b4a-bGkH ACCESS: Login: luxikmc/(unknown) from 78.80.17.249-693149674 || BYOND v512
+[00:45:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:45:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:45:50] b4a-bGkH EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[00:46:02] b4a-bGkH SAY: Meatbag/ : Squaaak!
+[00:46:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:46:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:46:20] b4a-bGkH SAY: grey baby slime (1)/ : Blop...
+[00:46:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:46:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:47:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:47:46] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:48:48] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:49:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:49:04] b4a-bGkH SAY: Experiment 97d/ : eh?
+[00:50:28] b4a-bGkH EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:50:28] b4a-bGkH SAY: grey baby slime (681)/ : I want to eat...
+[00:50:36] b4a-bGkH SAY: grey baby slime (1)/ : I want to eat...
+[00:50:52] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[00:51:04] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:51:24] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:53:40] b4a-bGkH SAY: Experiment 97d/ : eh?
+[00:53:42] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:54:52] b4a-bGkH EMOTE: crab/ : <B>The crab</B> clacks.
+[00:55:00] b4a-bGkH EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:55:50] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[00:56:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:56:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:56:32] b4a-bGkH ADMIN: luxikmc/(Peter) opened Canister [Phoron], containing phoron. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=23;Y=58;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000094]'>MOB</a>)
+[00:56:32] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>luxikmc</a>/(<font color='#ffa500'>Peter</font>) opened Canister [Phoron], containing phoron. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=23;Y=58;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000094]'>MOB</a>)</span></span>
+[00:56:48] b4a-bGkH SAY: grey baby slime (681)/ : Blop...
+[00:57:40] b4a-bGkH ADMIN: luxikmc/(Peter) opened Canister [Phoron], containing phoron. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=57;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000094]'>MOB</a>)
+[00:57:40] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>luxikmc</a>/(<font color='#ffa500'>Peter</font>) opened Canister [Phoron], containing phoron. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=20;Y=57;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000094]'>MOB</a>)</span></span>
+[00:57:40] b4a-bGkH DEBUG: Next event of severity Mundane in 16.624 minutes.
+[00:57:40] b4a-bGkH DEBUG: Starting event 'APC Damage' of severity Mundane.
+[00:57:42] b4a-bGkH DEBUG: Event 'APC Damage' has completed at 01:03.
+[00:57:48] b4a-bGkH EMOTE: Meatbag/ : <B>Meatbag</B> squawks.
+[00:58:30] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:59:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:59:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[00:59:52] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:00:52] b4a-bGkH EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:01:42] b4a-bGkH ADMIN: luxikmc/(Peter) has ghosted. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=57;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000094]'>MOB</a>)
+[01:01:42] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>luxikmc</a>/(<font color='#ffa500'>Peter</font>) has ghosted. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=15;Y=57;Z=7'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000094]'>MOB</a>)</span></span>
+[01:01:42] b4a-bGkH ACCESS: Logout: luxikmc/(Peter)
+[01:01:42] b4a-bGkH ACCESS: Login: luxikmc/(Peter) from 78.80.17.249-693149674 || BYOND v512
+[01:01:42] b4a-bGkH SAY: (DSAY) LuxikMC - usr: luxikmc/(Peter) : The ghost of <span class='name'>Peter</span> now stalks among the dead at the Stage. 
+[01:02:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:02:38] b4a-bGkH SAY: grey baby slime (1)/ : I want to eat...
+[01:02:39] b4a-bGkH SAY: (DSAY) LuxikMC - usr: luxikmc/(Peter) : <span class='name'>Peter</span> no longer stalks in the realm of the dead. They are now a mouse.
+[01:02:39] b4a-bGkH ACCESS: Logout: luxikmc/(Peter)
+[01:02:39] b4a-bGkH ACCESS: Login: luxikmc/(mouse (100)) from 78.80.17.249-693149674 || BYOND v512
+[01:03:44] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[01:03:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:04:08] b4a-bGkH EMOTE: space carp/ : <B>The space carp</B> nashes at the cosmoshark.
+[01:04:36] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:05:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:05:36] b4a-bGkH SAY: grey baby slime (1)/ : Where is the food?
+[01:05:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:06:16] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:06:30] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[01:06:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:06:50] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[01:07:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:07:01] b4a-bGkH ACCESS: Logout: luxikmc/(mouse (100))
+[01:07:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:07:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:07:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:07:24] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:07:36] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[01:07:38] b4a-bGkH ACCESS: Login: Cokecrotch/(Cokecrotch) from 178.19.255.85-3496466766 || BYOND v512
+[01:07:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:08:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:08:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:09:34] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[01:10:44] b4a-bGkH SAY: grey baby slime (681)/ : Lonely...
+[01:11:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:11:09] b4a-bGkH SAY: (DSAY) Cokecrotch - usr: Cokecrotch/(Cokecrotch) : The ghost of <span class='name'>Cokecrotch</span> now lurks among the dead. 
+[01:11:09] b4a-bGkH ACCESS: Logout: cokecrotch/(Cokecrotch)
+[01:11:09] b4a-bGkH ACCESS: Login: Cokecrotch/(Samuel Prescott) from 178.19.255.85-3496466766 || BYOND v512
+[01:11:32] b4a-bGkH ACCESS: Logout: Cokecrotch/(Samuel Prescott)
+[01:11:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:11:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:12:02] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[01:12:10] b4a-bGkH ACCESS: Login: Aprile2020/(Aprile2020) from 177.198.115.59-2791133335 || BYOND v512
+[01:12:38] b4a-bGkH ACCESS: Logout: Aprile2020/(Aprile2020)
+[01:12:41] b4a-bGkH ACCESS: Login: Harukaze/(Harukaze) from 118.11.11.174-4166387541 || BYOND v512
+[01:13:15] b4a-bGkH ACCESS: Logout: Harukaze/(Harukaze)
+[01:13:50] b4a-bGkH SAY: grey baby slime (681)/ : I want to eat...
+[01:13:53] b4a-bGkH ACCESS: Login: Cokecrotch/(Samuel Prescott) from 178.19.255.85-3496466766 || BYOND v512
+[01:14:08] b4a-bGkH DEBUG: Next event of severity Moderate in 50.41 minutes.
+[01:14:08] b4a-bGkH DEBUG: Starting event 'Nothing' of severity Moderate.
+[01:14:10] b4a-bGkH DEBUG: Event 'Nothing' has completed at 01:19.
+[01:14:17] b4a-bGkH SAY: (DSAY) Cokecrotch - usr: Cokecrotch/(Samuel Prescott) : <span class='name'>Samuel Prescott</span> no longer lurks in the realm of the dead. 
+[01:14:17] b4a-bGkH ACCESS: Logout: cokecrotch/(Samuel Prescott)
+[01:14:17] b4a-bGkH ACCESS: Login: Cokecrotch/(new player) from 178.19.255.85-3496466766 || BYOND v512
+[01:14:17] b4a-bGkH ADMIN: Cokecrotch/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000a3]'>MOB</a>)
+[01:14:17] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>Cokecrotch</a>/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000a3]'>MOB</a>)</span></span>
+[01:14:18] b4a-bGkH DEBUG: Next event of severity Mundane in 17.358 minutes.
+[01:14:18] b4a-bGkH DEBUG: Starting event 'Computer Damage' of severity Mundane.
+[01:14:20] b4a-bGkH DEBUG: Event 'Computer Damage' has completed at 01:19.
+[01:14:23] b4a-bGkH ACCESS: Logout: Cokecrotch/(new player)
+[01:15:00] b4a-bGkH ACCESS: Login: Questionable/(Questionable) from 84.250.182.239-989836025 || BYOND v512
+[01:17:18] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:17:54] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:18:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:18:15] b4a-bGkH SAY: (DSAY) Questionable - usr: Questionable/(Questionable) : The ghost of <span class='name'>Questionable</span> now skulks among the dead. 
+[01:18:15] b4a-bGkH ACCESS: Logout: questionable/(Questionable)
+[01:18:15] b4a-bGkH ACCESS: Login: Questionable/(Jacqueline Baskett) from 84.250.182.239-989836025 || BYOND v512
+[01:18:22] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> dances around.
+[01:18:42] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:18:48] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:18:52] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[01:19:01] b4a-bGkH ACCESS: Logout: Questionable/(Jacqueline Baskett)
+[01:19:02] b4a-bGkH SAY: grey baby slime (681)/ : Blop...
+[01:19:05] b4a-bGkH ACCESS: Login: AdeptMechanicus/(AdeptMechanicus) from 81.196.78.194-2617451102 || BYOND v512
+[01:19:56] b4a-bGkH SAY: grey baby slime (681)/ : Lonely...
+[01:20:04] b4a-bGkH SAY: grey baby slime (1)/ : Blop...
+[01:21:20] b4a-bGkH SAY: grey baby slime (681)/ : Lonely...
+[01:24:21] b4a-bGkH SAY: (DSAY) AdeptMechanicus - usr: AdeptMechanicus/(AdeptMechanicus) : The ghost of <span class='name'>AdeptMechanicus</span> now stalks among the dead. 
+[01:24:21] b4a-bGkH ACCESS: Logout: adeptmechanicus/(AdeptMechanicus)
+[01:24:21] b4a-bGkH ACCESS: Login: AdeptMechanicus/(Caryl Moon) from 81.196.78.194-2617451102 || BYOND v512
+[01:25:35] b4a-bGkH SAY: (DSAY) AdeptMechanicus - usr: AdeptMechanicus/(Caryl Moon) : <span class='name'>Caryl Moon</span> no longer stalks in the realm of the dead. 
+[01:25:35] b4a-bGkH ACCESS: Logout: adeptmechanicus/(Caryl Moon)
+[01:25:35] b4a-bGkH ACCESS: Login: AdeptMechanicus/(new player) from 81.196.78.194-2617451102 || BYOND v512
+[01:25:35] b4a-bGkH ADMIN: AdeptMechanicus/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000a3]'>MOB</a>)
+[01:25:35] b4a-bGkH ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><a href='?priv_msg=[0x5000000];ticket=[0x0]'>AdeptMechanicus</a>/(new player) has respawned. (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000a3]'>MOB</a>)</span></span>
+[01:25:55] b4a-bGkH ACCESS: Logout: AdeptMechanicus/(new player)
+[01:26:23] b4a-bGkH ACCESS: Login: Gromble2/(Gromble2) from 76.108.213.37-793293533 || BYOND v512
+[01:26:58] b4a-bGkH ACCESS: Logout: Gromble2/(Gromble2)
+[01:27:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:27:35] b4a-bGkH ACCESS: Login: Cokecrotch/(Cokecrotch) from 178.19.255.85-3496466766 || BYOND v512
+[01:28:18] b4a-bGkH ACCESS: Logout: Cokecrotch/(Cokecrotch)
+[01:31:06] b4a-bGkH EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[01:31:42] b4a-bGkH DEBUG: Next event of severity Mundane in 15.656 minutes.
+[01:31:42] b4a-bGkH DEBUG: Starting event 'Brand Intelligence' of severity Mundane.
+[01:31:51] b4a-bGkH ACCESS: Login: Hurttoto/(Hurttoto) from 67.174.30.86-3894515746 || BYOND v512
+[01:31:52] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:32:29] b4a-bGkH SAY: (DSAY) Hurttoto - usr: Hurttoto/(Hurttoto) : The ghost of <span class='name'>Hurttoto</span> now stalks among the dead. 
+[01:32:29] b4a-bGkH ACCESS: Logout: hurttoto/(Hurttoto)
+[01:32:29] b4a-bGkH ACCESS: Login: Hurttoto/(Leilani Fisher) from 67.174.30.86-3894515746 || BYOND v512
+[01:32:46] b4a-bGkH ACCESS: Logout: Hurttoto/(Leilani Fisher)
+[01:33:10] b4a-bGkH SAY: grey baby slime (681)/ : Rawr...
+[01:33:34] b4a-bGkH SAY: grey baby slime (1)/ : Blorble...
+[01:36:06] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:36:12] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:42:00] b4a-bGkH EMOTE: cosmoshark/ : <B>The cosmoshark</B> nashes at the dview.
+[01:42:02] b4a-bGkH SAY: grey baby slime (681)/ : Where is the food?
+[01:44:20] b4a-bGkH SAY: grey baby slime (681)/ : Blop...
+[01:44:28] b4a-bGkH SAY: grey baby slime (1)/ : Lonely...
+[01:44:46] b4a-bGkH ACCESS: Login: Randomcat666/(Randomcat666) from 121.221.154.217-2174607669 || BYOND v512
+[01:45:07] b4a-bGkH ADMIN: Randomcat666/(Randomcat666) initiated a reboot.
+[01:45:12] b4a-bGkH ACCESS: Logout: Randomcat666/(Randomcat666)

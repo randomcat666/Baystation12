@@ -1,0 +1,138 @@
+
+
+Starting up. (ID: b4k-bX7M) 22:57.27
+---------------------
+[04:00:00] b4k-bX7M MISC: Saved mode is 'traitor'
+[04:00:00] b4k-bX7M ADMIN: Loading jobban_rank
+[04:00:00] b4k-bX7M ADMIN: jobban_keylist was empty
+[04:00:00] b4k-bX7M ADMIN: Loading Banlist
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Plants subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Early Initialization subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Robots subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[04:00:00] b4k-bX7M GAME: Z-level Ascent seedship loaded at 40,40,10
+[04:00:00] b4k-bX7M ASGEN: Found 27526 ore turfs.
+[04:00:00] b4k-bX7M ASGEN: Set 1511 turfs to random minerals.
+[04:00:00] b4k-bX7M ASGEN: Set 489 turfs to high-chance random minerals.
+[04:00:00] b4k-bX7M ASGEN: Applied 21301 turfs.
+[04:00:00] b4k-bX7M ASGEN: Found 27482 ore turfs.
+[04:00:00] b4k-bX7M ASGEN: Set 1444 turfs to random minerals.
+[04:00:00] b4k-bX7M ASGEN: Set 556 turfs to high-chance random minerals.
+[04:00:00] b4k-bX7M ASGEN: Applied 21535 turfs.
+[04:00:00] b4k-bX7M GAME: Z-level Fallen Icarus loaded at 1,1,12
+[04:00:00] b4k-bX7M ASGEN: Found 27974 ore turfs.
+[04:00:00] b4k-bX7M ASGEN: Set 1492 turfs to random minerals.
+[04:00:00] b4k-bX7M ASGEN: Set 508 turfs to high-chance random minerals.
+[04:00:00] b4k-bX7M ASGEN: Applied 3141 turfs.
+[04:00:00] b4k-bX7M GAME: Z-level Bluespace River loaded at 50,50,14
+[04:00:00] b4k-bX7M GAME: Z-level Yacht loaded at 50,50,15
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Mapping subsystem within 74 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Jobs subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Circuit subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Atoms subsystem within 82.4 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Machines subsystem within 2.5 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Icon Updates subsystem within 0.4 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Event Manager subsystem within 0.1 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Trade subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Air subsystem within 8.3 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!
+[04:00:00] b4k-bX7M ASGEN: Found 8224 ore turfs.
+[04:00:00] b4k-bX7M ASGEN: Set 1382 turfs to random minerals.
+[04:00:00] b4k-bX7M ASGEN: Set 480 turfs to high-chance random minerals.
+[04:00:00] b4k-bX7M ASGEN: Applied 34969 turfs.
+[04:00:00] b4k-bX7M DD_OUTPUT: Ruin "crashed survival pod" placed at (118, 43, 22)
+[04:00:00] b4k-bX7M GAME: crashed survival pod loaded at at 112,35,22
+[04:00:00] b4k-bX7M DD_OUTPUT: Ruin "Marooned" placed at (99, 154, 22)
+[04:00:00] b4k-bX7M GAME: Marooned loaded at at 84,139,22
+[04:00:00] b4k-bX7M DD_OUTPUT: Ruin "radshrine" placed at (70, 36, 22)
+[04:00:00] b4k-bX7M GAME: radshrine loaded at at 67,33,22
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Late Initialization subsystem within 175 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Cuisine subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Custom Items subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Fabrication subsystem within 0.7 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Persistence subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Codex subsystem within 0.3 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Alarm subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Goals subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Shuttle subsystem within 0.2 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Lighting subsystem within 5.2 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Xenoarch subsystem within 1.1 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initialized Ticker subsystem within 0 seconds!
+[04:00:00] b4k-bX7M DD_OUTPUT: Initializations complete within 350.4 seconds!
+[04:00:00] b4k-bX7M VOTE: Game mode vote started by the server.
+[04:00:00] b4k-bX7M ACCESS: Login: Randomcat666/(Randomcat666) from 121.221.154.217-2174607669 || BYOND v512
+[04:00:00] b4k-bX7M ADMIN: Randomcat666 has started the game.
+[04:00:00] b4k-bX7M ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><font color='blue'>Randomcat666 has started the game.</font></span></span>
+[04:00:00] b4k-bX7M DEBUG: Next event of severity Mundane in 13.442 minutes.
+[04:00:00] b4k-bX7M DEBUG: Next event of severity Moderate in 36.9733 minutes.
+[04:00:00] b4k-bX7M DEBUG: Next event of severity Major in 92.9883 minutes.
+[04:00:00] b4k-bX7M DEBUG: Randomcat666 had traitor enabled, so we are drafting them.
+[04:00:00] b4k-bX7M DEBUG: Randomcat666 had traitor enabled, so we are drafting them.
+[04:00:00] b4k-bX7M ADMINWARN: <span class="log_message"><span class="prefix">ADMIN LOG:</span> <span class="message"><b>Possible antagonist types:</b> Traitors.</span></span>
+[04:00:00] b4k-bX7M ACCESS: Logout: randomcat666/(Randomcat666)
+[04:00:00] b4k-bX7M ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.221.154.217-2174607669 || BYOND v512
+[04:00:00] b4k-bX7M DEBUG: Randomcat666 was selected for Traitor by lottery, but is not allowed to be that role.
+[04:00:02] b4k-bX7M EMOTE: Faithless/ : <B>Faithless</B> wails at Experiment 68a.
+[04:00:34] b4k-bX7M EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the natural philosopher&#39;s wig.
+[04:02:18] b4k-bX7M EMOTE: Poppy the Safety Possum/ : <B>Poppy the Safety Possum</B> lounges.
+[04:02:26] b4k-bX7M EMOTE: giant spider/ : <B>The giant spider</B> raises its forelegs at the dview.
+[04:02:56] b4k-bX7M ACCESS: Logout: Randomcat666/(Cassandra Rayne)
+[04:02:56] b4k-bX7M ADMINWARN: <span class="log_message"><span class="prefix">STAFF LOG:</span> <span class="message">HeadAdmin logout: Randomcat666/(Cassandra Rayne)</span></span>
+
+
+Starting up. (ID: b4k-b8rV) 23:57.18
+---------------------
+[04:00:00] b4k-b8rV MISC: Saved mode is 'traitor'
+[04:00:00] b4k-b8rV ADMIN: Loading jobban_rank
+[04:00:00] b4k-b8rV ADMIN: jobban_keylist was empty
+[04:00:00] b4k-b8rV ADMIN: Loading Banlist
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Plants subsystem within 0.1 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Early Initialization subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Robots subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[04:00:00] b4k-b8rV ASGEN: Found 26964 ore turfs.
+[04:00:00] b4k-b8rV ASGEN: Set 1490 turfs to random minerals.
+[04:00:00] b4k-b8rV ASGEN: Set 510 turfs to high-chance random minerals.
+[04:00:00] b4k-b8rV ASGEN: Applied 21301 turfs.
+[04:00:00] b4k-b8rV ASGEN: Found 27054 ore turfs.
+[04:00:00] b4k-b8rV ASGEN: Set 1500 turfs to random minerals.
+[04:00:00] b4k-b8rV ASGEN: Set 500 turfs to high-chance random minerals.
+[04:00:00] b4k-b8rV ASGEN: Applied 21535 turfs.
+[04:00:00] b4k-b8rV GAME: Z-level Fallen Icarus loaded at 1,1,11
+[04:00:00] b4k-b8rV GAME: Z-level Mobius rift loaded at 1,1,12
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Mapping subsystem within 66.6 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Jobs subsystem within 0.1 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Circuit subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[04:00:00] b4k-b8rV ACCESS: Login: Randomcat666/(Randomcat666) from 121.221.154.217-2174607669 || BYOND v512
+[04:00:00] b4k-b8rV ACCESS: Logout: Randomcat666/(Randomcat666)
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Atoms subsystem within 75.4 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Machines subsystem within 2.1 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Icon Updates subsystem within 0.4 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Event Manager subsystem within 0.1 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Trade subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Air subsystem within 7.6 seconds!
+[04:00:00] b4k-b8rV DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!

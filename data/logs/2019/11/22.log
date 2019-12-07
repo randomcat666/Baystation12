@@ -1,0 +1,69 @@
+
+
+Starting up. (ID: b4k-b81Z) 00:00.55
+---------------------
+[04:00:00] b4k-b81Z MISC: Saved mode is 'traitor'
+[04:00:00] b4k-b81Z ADMIN: Loading jobban_rank
+[04:00:00] b4k-b81Z ADMIN: jobban_keylist was empty
+[04:00:00] b4k-b81Z ADMIN: Loading Banlist
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Webhooks subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Chemistry subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Materials subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Plants subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Antags subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Culture subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Early Initialization subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Robots subsystem within 0.1 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Space skybox subsystem within 0 seconds!
+[04:00:00] b4k-b81Z ASGEN: Found 27631 ore turfs.
+[04:00:00] b4k-b81Z ASGEN: Set 1511 turfs to random minerals.
+[04:00:00] b4k-b81Z ASGEN: Set 489 turfs to high-chance random minerals.
+[04:00:00] b4k-b81Z ASGEN: Applied 7051 turfs.
+[04:00:00] b4k-b81Z GAME: Z-level Slavers' Base loaded at 1,1,10
+[04:00:00] b4k-b81Z GAME: Z-level Magshield loaded at 1,1,11
+[04:00:00] b4k-b81Z GAME: Z-level Bearcat Wreck loaded at 40,40,13
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Mapping subsystem within 13.2 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Jobs subsystem within 0.1 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Character Setup subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Circuit subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Open Space subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Atoms subsystem within 53.3 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Machines subsystem within 2.4 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Icon Updates subsystem within 0.5 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Psychics subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Evacuation subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Event Manager subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Graphs (Update) subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Supply subsystem within 0.2 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Trade subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Voting subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Air subsystem within 3.3 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Ambient Occlusion subsystem within 0 seconds!
+[04:00:00] b4k-b81Z ASGEN: Found 7748 ore turfs.
+[04:00:00] b4k-b81Z ASGEN: Set 1423 turfs to random minerals.
+[04:00:00] b4k-b81Z ASGEN: Set 439 turfs to high-chance random minerals.
+[04:00:00] b4k-b81Z ACCESS: Login: Randomcat666/(Randomcat666) from 121.221.154.217-2174607669 || BYOND v512
+[04:00:00] b4k-b81Z ACCESS: Logout: Randomcat666/(Randomcat666)
+[04:00:00] b4k-b81Z ASGEN: Applied 34969 turfs.
+[04:00:00] b4k-b81Z DD_OUTPUT: Ruin "Marooned" placed at (92, 95, 18)
+[04:00:00] b4k-b81Z GAME: Marooned loaded at at 77,80,18
+[04:00:00] b4k-b81Z DD_OUTPUT: Ruin "radshrine" placed at (172, 84, 18)
+[04:00:00] b4k-b81Z GAME: radshrine loaded at at 169,81,18
+[04:00:00] b4k-b81Z DD_OUTPUT: Ruin "Fountain of Youth" placed at (112, 77, 18)
+[04:00:00] b4k-b81Z GAME: Fountain of Youth loaded at at 109,74,18
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Late Initialization subsystem within 118.8 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Cuisine subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Custom Items subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Fabrication subsystem within 0.6 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Persistence subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Codex subsystem within 0.3 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Alarm subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Goals subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Shuttle subsystem within 0.1 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Lighting subsystem within 4.5 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Xenoarch subsystem within 0.4 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initialized Ticker subsystem within 0 seconds!
+[04:00:00] b4k-b81Z DD_OUTPUT: Initializations complete within 197.8 seconds!
+[04:00:00] b4k-b81Z VOTE: Game mode vote started by the server.
+[04:00:00] b4k-b81Z ACCESS: Login: Cokecrotch/(Cokecrotch) from 178.19.255.85-3496466766 || BYOND v512
+[04:00:00] b4k-b81Z ACCESS: Logout: Cokecrotch/(Cokecrotch)

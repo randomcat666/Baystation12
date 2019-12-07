@@ -1,0 +1,362 @@
+
+
+Starting up. (ID: b34-bRgz) 22:13.36
+---------------------
+[18:00:00] b34-bRgz MISC: Saved mode is 'extended'
+[18:00:00] b34-bRgz ADMIN: Loading jobban_rank
+[18:00:00] b34-bRgz ADMIN: jobban_keylist was empty
+[18:00:00] b34-bRgz ADMIN: Loading Banlist
+[18:00:00] b34-bRgz ACCESS: Login: Randomcat666/(Randomcat666) from 121.213.113.174-2280897090 || BYOND v512
+[18:00:00] b34-bRgz GAME: Z-level Skrellian Scout Ship loaded at 40,40,11
+[18:00:00] b34-bRgz ASGEN: Found 28146 ore turfs.
+[18:00:00] b34-bRgz ASGEN: Set 1509 turfs to random minerals.
+[18:00:00] b34-bRgz ASGEN: Set 491 turfs to high-chance random minerals.
+[18:00:00] b34-bRgz ASGEN: Applied 1117 turfs.
+[18:00:00] b34-bRgz GAME: Z-level Lost Supply Base loaded at 50,50,12
+[18:00:00] b34-bRgz ASGEN: Found 27614 ore turfs.
+[18:00:00] b34-bRgz ASGEN: Set 1513 turfs to random minerals.
+[18:00:00] b34-bRgz ASGEN: Set 487 turfs to high-chance random minerals.
+[18:00:00] b34-bRgz ASGEN: Applied 7051 turfs.
+[18:00:00] b34-bRgz GAME: Z-level Slavers' Base loaded at 1,1,13
+[18:00:00] b34-bRgz GAME: Z-level Yacht loaded at 50,50,14
+[18:00:00] b34-bRgz GAME: spider nest loaded at at 77,27,22
+[18:00:00] b34-bRgz GAME: hydroponics base loaded at at 44,87,22
+[18:00:00] b34-bRgz GAME: random datapod contents #1 (chem vials) loaded at at 69,78,22
+[18:00:00] b34-bRgz GAME: ejected data capsule loaded at at 67,76,22
+[18:00:00] b34-bRgz DEBUG: Next event of severity Mundane in 12.614 minutes.
+[18:00:00] b34-bRgz DEBUG: Next event of severity Moderate in 41.284 minutes.
+[18:00:00] b34-bRgz DEBUG: Next event of severity Major in 82.895 minutes.
+[18:00:00] b34-bRgz ACCESS: Logout: randomcat666/(Randomcat666)
+[18:00:00] b34-bRgz ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.213.113.174-2280897090 || BYOND v512
+[18:00:50] b34-bRgz EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the insulated gauntlets.
+[18:02:04] b34-bRgz EMOTE: Ian/ : <B>Ian</B> shivers.
+[18:03:00] b34-bRgz EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:05:20] b34-bRgz SAY: Poppy the Safety Possum/ : Aaa!
+[18:05:44] b34-bRgz EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[18:06:26] b34-bRgz EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[18:06:50] b34-bRgz EMOTE: Runtime/ : <B>Runtime</B> mews.
+[18:08:04] b34-bRgz EMOTE: Ian/ : <B>Ian</B> pants.
+[18:08:38] b34-bRgz SAY: Runtime/ : Esp!
+[18:10:28] b34-bRgz EMOTE: Runtime/ : <B>Runtime</B> mews.
+[18:11:00] b34-bRgz SAY: Ian/ : YAP.
+[18:11:32] b34-bRgz EMOTE: Poppy the Safety Possum/ : <B>Poppy the Safety Possum</B> hisses.
+[18:12:34] b34-bRgz DEBUG: Next event of severity Mundane in 17.184 minutes.
+[18:12:34] b34-bRgz DEBUG: Starting event 'Lost Carp' of severity Mundane.
+[18:13:02] b34-bRgz EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[18:14:30] b34-bRgz DEBUG: Carp migration event spawned 4 carp.
+[18:14:30] b34-bRgz DEBUG: Event 'Lost Carp' has completed at 18:16.
+[18:15:00] b34-bRgz SAY: grey baby slime (474)/ : Rawr...
+[18:15:13] b34-bRgz ADMIN: Randomcat666/(Cassandra Rayne) opened Canister: [Hydrogen], containing hydrogen. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=102;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000e9]'>MOB</a>)
+[18:15:15] b34-bRgz ADMIN: Randomcat666/(Cassandra Rayne) opened Canister: [Hydrogen], containing hydrogen. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=102;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000e9]'>MOB</a>)
+[18:15:38] b34-bRgz SAY: Runtime/ : Purr!
+[18:16:06] b34-bRgz EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:16:40] b34-bRgz EMOTE: Ian/ : <B>Ian</B> dances around.
+[18:17:22] b34-bRgz SAY: Runtime/ : Meow!
+[18:17:50] b34-bRgz SAY: Runtime/ : Meow!
+[18:18:36] b34-bRgz ADMIN: Randomcat666/(Cassandra Rayne) has forced open an emergency shutter. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=115;Y=107;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000e9]'>MOB</a>)
+[18:19:31] b34-bRgz ADMIN: Randomcat666/(Cassandra Rayne) healed / Rrvived Randomcat666/(Cassandra Rayne) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=127;Y=99;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000e9]'>MOB</a>)
+[18:20:03] b34-bRgz ADMIN: Randomcat666/(Cassandra Rayne) has forced open an emergency shutter. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=107;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x30000e9]'>MOB</a>)
+[18:21:10] b34-bRgz SAY: Poppy the Safety Possum/ : Hiss!
+[18:21:19] b34-bRgz ADMIN: EVENT turned on the emitter
+[18:21:22] b34-bRgz ADMIN: EVENT INFO: Supermatter crystal has been energised.
+[18:21:29] b34-bRgz ADMIN: EVENT turned off the emitter
+[18:22:52] b34-bRgz ADMIN: EVENT WARN: Supermatter EPR value low. Possible core breach detected.
+[18:22:55] b34-bRgz DEBUG: Destroyed - the reinforced floor was deleted while still listening to the reinforced floor.
+[18:22:55] b34-bRgz DEBUG: Direction Set - the reinforced floor was deleted while still listening to the reinforced floor.
+[18:22:55] b34-bRgz ACCESS: Logout: randomcat666/(Cassandra Rayne)
+[18:22:55] b34-bRgz ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.213.113.174-2280897090 || BYOND v512
+[18:23:10] b34-bRgz ADMIN: EVENT INFO: Supermatter crystal is approaching unsafe operating temperature.
+[18:23:14] b34-bRgz ADMIN: EVENT WARN: Supermatter EPR value low. Possible core breach detected.
+[18:23:18] b34-bRgz ADMIN: Randomcat666/(Cassandra Rayne) initiated a reboot.
+[18:23:23] b34-bRgz ACCESS: Logout: Randomcat666/(Cassandra Rayne)
+
+
+Starting up. (ID: b34-bVzS) 22:41.14
+---------------------
+[04:00:00] b34-bVzS MISC: Saved mode is 'extended'
+[04:00:00] b34-bVzS ADMIN: Loading jobban_rank
+[04:00:00] b34-bVzS ADMIN: jobban_keylist was empty
+[04:00:00] b34-bVzS ADMIN: Loading Banlist
+[04:00:00] b34-bVzS ACCESS: Login: Randomcat666/(Randomcat666) from 121.213.113.174-2280897090 || BYOND v512
+[04:00:00] b34-bVzS GAME: Z-level Derelict Station loaded at 1,1,10
+[04:00:00] b34-bVzS GAME: Z-level Yacht loaded at 50,50,11
+[04:00:00] b34-bVzS ASGEN: Found 26858 ore turfs.
+[04:00:00] b34-bVzS ASGEN: Set 1494 turfs to random minerals.
+[04:00:00] b34-bVzS ASGEN: Set 506 turfs to high-chance random minerals.
+[04:00:00] b34-bVzS ASGEN: Applied 33144 turfs.
+[04:00:00] b34-bVzS GAME: Z-level Mining - Planetoid loaded at 1,1,12
+[04:00:00] b34-bVzS ASGEN: Found 27468 ore turfs.
+[04:00:00] b34-bVzS ASGEN: Set 1484 turfs to random minerals.
+[04:00:00] b34-bVzS ASGEN: Set 516 turfs to high-chance random minerals.
+[04:00:00] b34-bVzS ASGEN: Applied 3141 turfs.
+[04:00:00] b34-bVzS GAME: Z-level Bluespace River loaded at 50,50,14
+[04:00:00] b34-bVzS GAME: Z-level Ascent seedship loaded at 40,40,15
+[04:00:00] b34-bVzS ASGEN: Found 8039 ore turfs.
+[04:00:00] b34-bVzS ASGEN: Set 1393 turfs to random minerals.
+[04:00:00] b34-bVzS ASGEN: Set 469 turfs to high-chance random minerals.
+[04:00:00] b34-bVzS ASGEN: Applied 34969 turfs.
+[04:00:00] b34-bVzS GAME: Monolith Ring loaded at at 136,130,22
+[04:00:00] b34-bVzS GAME: random datapod contents #2 (servers) loaded at at 124,143,22
+[04:00:00] b34-bVzS GAME: ejected data capsule loaded at at 122,141,22
+[04:00:00] b34-bVzS GAME: Fountain of Youth loaded at at 133,126,22
+[04:00:00] b34-bVzS VOTE: Game mode vote started by the server.
+[04:00:00] b34-bVzS VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[04:00:00] b34-bVzS ADMIN: Randomcat666 has started the game.
+[04:00:00] b34-bVzS DEBUG: Next event of severity Mundane in 15.804 minutes.
+[04:00:00] b34-bVzS DEBUG: Next event of severity Moderate in 53.686 minutes.
+[04:00:00] b34-bVzS DEBUG: Next event of severity Major in 90.525 minutes.
+[04:00:00] b34-bVzS ACCESS: Logout: randomcat666/(Randomcat666)
+[04:00:00] b34-bVzS ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.213.113.174-2280897090 || BYOND v512
+[04:00:32] b34-bVzS EMOTE: Ian/ : <B>Ian</B> pants.
+[04:00:33] b34-bVzS ACCESS: Logout: Randomcat666/(Cassandra Rayne)
+[04:01:11] b34-bVzS ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.213.113.174-2280897090 || BYOND v512
+[04:01:20] b34-bVzS EMOTE: Meatbag/ : <B>Meatbag</B> turns and flies towards the empty can.
+[04:01:25] b34-bVzS ACCESS: Login: Cl4b/(Cl4b) from 1.159.158.90-3809051363 || BYOND v512
+[04:02:04] b34-bVzS SAY: Medibot/ : Delicious!
+[04:02:26] b34-bVzS EMOTE: giant spider/ : <B>The giant spider</B> raises its forelegs at the dview.
+[04:03:50] b34-bVzS SAY: Poppy the Safety Possum/ : Aaa?
+[04:04:58] b34-bVzS SAY: Medibot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[04:06:48] b34-bVzS SAY: Medibot/ : What kind of infirmary is this? Everyone&#39;s dropping like dead flies.
+[04:07:36] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:08:08] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:08:30] b34-bVzS SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[04:08:33] b34-bVzS ACCESS: Login: The Entire Roman Empire/(The Entire Roman Empire) from 220.233.20.179-486813942 || BYOND v512
+[04:08:44] b34-bVzS ADMIN: The Entire Roman Empire/(The Entire Roman Empire) created a memory (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006d]'>MOB</a>)
+[04:08:44] b34-bVzS ACCESS: Logout: theentireromanempire/(The Entire Roman Empire)
+[04:08:44] b34-bVzS ACCESS: Login: The Entire Roman Empire/(Roberta Coppette) from 220.233.20.179-486813942 || BYOND v512
+[04:08:46] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[04:08:46] b34-bVzS DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[04:08:46] b34-bVzS ADMIN: The Entire Roman Empire/(Roberta Coppette) has joined the round as Chief of Security. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=81;Y=89;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006c]'>MOB</a>)
+[04:09:24] b34-bVzS SAY: grey baby slime (690)/ : Blop...
+[04:10:26] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:11:28] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:11:38] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:11:56] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:12:38] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:13:04] b34-bVzS EMOTE: Poppy the Safety Possum/ : <B>Poppy the Safety Possum</B> lounges.
+[04:13:16] b34-bVzS SAY: Medibot/ : Delicious!
+[04:14:12] b34-bVzS EMOTE: Ian/ : <B>Ian</B> pants.
+[04:14:14] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:15:04] b34-bVzS SAY: Runtime/ : Meow!
+[04:15:46] b34-bVzS DEBUG: Next event of severity Mundane in 16.582 minutes.
+[04:15:46] b34-bVzS DEBUG: Starting event 'Trivial News' of severity Mundane.
+[04:16:09] b34-bVzS DEBUG: Event 'Trivial News' has completed at 04:22.
+[04:16:34] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:16:58] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:17:40] b34-bVzS SAY: Ian/ : Woof!
+[04:17:54] b34-bVzS ACCESS: Logout: cl4b/(Cl4b)
+[04:17:54] b34-bVzS ACCESS: Login: Cl4b/(Amari Nicholas) from 1.159.158.90-3809051363 || BYOND v512
+[04:17:55] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Arrivals Announcement Computer.
+[04:17:55] b34-bVzS DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[04:17:55] b34-bVzS ADMIN: Cl4b/(Amari Nicholas) has joined the round as Explorer. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=83;Y=89;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:18:06] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:18:18] b34-bVzS SAY: Medibot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[04:19:02] b34-bVzS SAY: Medibot/ : What kind of infirmary is this? Everyone&#39;s dropping like dead flies.
+[04:19:04] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) opened Canister: [Hydrogen], containing hydrogen. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=102;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:19:06] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) opened Canister: [Hydrogen], containing hydrogen. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=102;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:19:12] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:20:52] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) opened Canister: [Hydrogen], containing hydrogen. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=101;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:20:56] b34-bVzS SAY: Medibot/ : Delicious!
+[04:20:56] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) opened Canister: [Hydrogen], containing hydrogen. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=101;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:22:12] b34-bVzS ADMIN: EVENT turned on the emitter
+[04:22:16] b34-bVzS ADMIN: EVENT INFO: Supermatter crystal has been energised.
+[04:22:22] b34-bVzS ADMIN: EVENT turned off the emitter
+[04:23:02] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) has forced open an emergency shutter. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=102;Z=4'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:24:06] b34-bVzS SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[04:24:08] b34-bVzS SAY: Runtime/ : Meow!
+[04:24:32] b34-bVzS SAY: grey baby slime (803)/ : Blop...
+[04:24:35] b34-bVzS ACCESS: Logout: theentireromanempire/(Roberta Coppette)
+[04:24:35] b34-bVzS ACCESS: Login: The Entire Roman Empire/(Roberta Coppette) from 220.233.20.179-486813942 || BYOND v512
+[04:24:35] b34-bVzS ADMIN: theentireromanempire/(Roberta Coppette) used gibself. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=101;Z=6'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x300006c]'>MOB</a>)
+[04:24:39] b34-bVzS ACCESS: Logout: theentireromanempire/(Roberta Coppette)
+[04:24:39] b34-bVzS ACCESS: Login: The Entire Roman Empire/(Roberta Coppette) from 220.233.20.179-486813942 || BYOND v512
+[04:25:12] b34-bVzS ADMIN: The Entire Roman Empire/(Roberta Coppette) has used rudimentary transformation on <a href='?priv_msg=[0x5000002];ticket=[0x0]'>The Entire Roman Empire</a>/(Roberta Coppette). Transforming to larva; deletemob=1 (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=58;Y=97;Z=6'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000083]'>MOB</a>)
+[04:25:20] b34-bVzS ACCESS: Logout: The Entire Roman Empire/(Roberta Coppette)
+[04:26:12] b34-bVzS ADMIN: EVENT WARN: Supermatter EPR value low. Possible core breach detected.
+[04:26:33] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) teleported Cl4b/(Amari Nicholas) to self. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=78;Y=105;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:27:08] b34-bVzS SAY: Ian/ : Bark!
+[04:27:18] b34-bVzS ADMIN: Randomcat666 deadmined themself.
+[04:28:22] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:28:32] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:28:50] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:29:42] b34-bVzS SAY: Runtime/ : Purr!
+[04:29:49] b34-bVzS ADMIN: Randomcat666 re-admined themself.
+[04:30:08] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) used secret 'Fix All Lights' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=102;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:30:10] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) used secret 'Power All SMES' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=102;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:30:12] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) used secret 'Make All Areas Powered' (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=107;Y=102;Z=1'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:30:12] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:31:00] b34-bVzS SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[04:31:54] b34-bVzS ADMIN: EVENT INFO: Supermatter crystal is approaching unsafe operating temperature.
+[04:32:21] b34-bVzS DEBUG: Next event of severity Mundane in 15.342 minutes.
+[04:32:21] b34-bVzS DEBUG: Starting event 'Toilet Clog' of severity Mundane.
+[04:32:22] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:32:23] b34-bVzS DEBUG: Event 'Toilet Clog' has completed at 04:38.
+[04:32:32] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:32:40] b34-bVzS ADMIN: EVENT WARN: Supermatter crystal is taking integrity damage!
+[04:32:54] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:33:24] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:33:34] b34-bVzS SAY: Medibot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[04:34:14] b34-bVzS EMOTE: Poppy the Safety Possum/ : <B>Poppy the Safety Possum</B> forages for trash.
+[04:34:22] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:35:40] b34-bVzS EMOTE: Ian/ : <B>Ian</B> pants.
+[04:36:26] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:36:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:36:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:36:44] b34-bVzS SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[04:37:01] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:37:01] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:37:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:37:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:37:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:37:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:38:01] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:38:01] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:38:22] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:38:22] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:38:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:38:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:38:56] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:39:01] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:39:01] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:39:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:39:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:39:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:39:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:39:52] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:40:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:40:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:40:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:40:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:40:41] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:40:41] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:40:42] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:41:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:41:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:41:06] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:41:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:41:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:41:41] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:41:41] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:42:01] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:42:01] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:42:22] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:42:22] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:42:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:42:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:43:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:43:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:43:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:43:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:43:41] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:43:41] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:44:01] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:44:01] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:44:22] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:44:22] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:44:22] b34-bVzS EMOTE: Ian/ : <B>Ian</B> chases their tail.
+[04:44:41] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:44:41] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:45:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:45:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:45:03] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) has entered a stasis pod (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=123;Y=122;Z=14'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:45:12] b34-bVzS SAY: grey baby slime (803)/ : Blorble...
+[04:45:22] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:45:22] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:45:34] b34-bVzS SAY: Medibot/ : Radar, put a mask on!
+[04:45:41] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:45:41] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:45:42] b34-bVzS EMOTE: Ian/ : <B>Ian</B> dances around.
+[04:45:48] b34-bVzS SAY: Medibot/ : What kind of infirmary is this? Everyone&#39;s dropping like dead flies.
+[04:46:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:46:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:46:22] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:46:22] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:46:28] b34-bVzS ADMIN: EVENT WARN: Supermatter integrity is below 50%!
+[04:46:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:46:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:47:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:47:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:47:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:47:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:47:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:47:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:47:43] b34-bVzS DEBUG: Next event of severity Mundane in 17.714 minutes.
+[04:47:43] b34-bVzS DEBUG: Starting event 'Economic News' of severity Mundane.
+[04:48:02] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:48:02] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:48:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:48:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:48:42] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:48:42] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:48:48] b34-bVzS SAY: grey baby slime (690)/ : Lonely...
+[04:49:01] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:49:01] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:49:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:49:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:49:24] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:49:24] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:49:33] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:49:33] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:49:40] b34-bVzS ADMIN: EVENT CRIT: Supermatter integrity is below 25%!
+[04:49:45] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:49:45] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:49:58] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:49:58] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:50:10] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:50:10] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:50:21] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:50:21] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:50:33] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:50:33] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:50:46] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:50:46] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:50:53] b34-bVzS EMOTE: Unknown (as Amari Nicholas)/Cl4b : <B>Unknown (as Amari Nicholas)</B> dry heaves.
+[04:50:58] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:50:58] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:51:10] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:51:10] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:51:22] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:51:22] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:51:33] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:51:33] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:51:45] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:51:45] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:51:58] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:51:58] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:52:00] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=109;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:02] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=108;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:10] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:52:10] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:52:16] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:52:16] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:52:16] b34-bVzS ADMIN: EVENT Supermatter delaminating at 131 103 4
+[04:52:16] b34-bVzS ADMIN: EVENT CRIT: Supermatter is delaminating!
+[04:52:17] b34-bVzS EMOTE: Unknown (as Amari Nicholas)/Cl4b : <B>Unknown (as Amari Nicholas)</B> dry heaves.
+[04:52:17] b34-bVzS DEBUG: Moved - Power Supply was deleted while still listening to Supermatter Monitor.
+[04:52:17] b34-bVzS DEBUG: Moved - Supermatter Monitor was deleted while still listening to the shortwave radio.
+[04:52:34] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=107;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:35] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=107;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:36] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=107;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:36] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=107;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:37] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=107;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:38] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=107;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:39] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=109;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:40] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=109;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:41] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=109;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:41] b34-bVzS ATTACK: Cl4b/(Amari Nicholas) used a titanium machete (DAMTYE: BRUTE) to attack Cl4b/(Amari Nicholas) (INTENT: HARM) (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=109;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:52:44] b34-bVzS ACCESS: Logout: randomcat666/(Cassandra Rayne)
+[04:52:44] b34-bVzS ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.213.113.174-2280897090 || BYOND v512
+[04:52:46] b34-bVzS ADMIN: EVENT Explosion with size (4.5, 9, 18) in area Engine Room (131,103,4) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=131;Y=103;Z=4'>JMP</a>)
+[04:52:46] b34-bVzS ACCESS: Logout: randomcat666/(Cassandra Rayne)
+[04:52:46] b34-bVzS ACCESS: Login: Randomcat666/(Cassandra Rayne) from 121.213.113.174-2280897090 || BYOND v512
+[04:52:46] b34-bVzS DEBUG: Moved - Cassandra Rayne was deleted while still listening to Cassandra Rayne's brain.
+[04:52:51] b34-bVzS ADMIN: randomcat666/(Cassandra Rayne) used gibself. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=117;Y=146;Z=9'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000062]'>MOB</a>)
+[04:53:00] b34-bVzS SAY: grey baby slime (803)/ : Blorble...
+[04:53:01] b34-bVzS ADMIN: Cl4b/(Amari Nicholas) has ghosted. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=102;Y=109;Z=19'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000075]'>MOB</a>)
+[04:53:01] b34-bVzS ACCESS: Logout: cl4b/(Amari Nicholas)
+[04:53:01] b34-bVzS ACCESS: Login: Cl4b/(Amari Nicholas) from 1.159.158.90-3809051363 || BYOND v512
+[04:53:01] b34-bVzS SAY: (DSAY) Cl4b - usr: cl4b/(Amari Nicholas) : The ghost of <span class='name'>Amari Nicholas</span> now lurks among the dead at the Charon - Crew Compartment. 
+[04:53:05] b34-bVzS EMOTE: Unknown (as Amari Nicholas)/ : <B>Unknown (as Amari Nicholas)</B> dry heaves.
+[04:53:10] b34-bVzS ADMIN: Randomcat666/(Cassandra Rayne) initiated a reboot.
+[04:53:15] b34-bVzS ACCESS: Logout: Randomcat666/(Cassandra Rayne)
+[04:53:15] b34-bVzS ACCESS: Logout: Cl4b/(Amari Nicholas)
